@@ -1,0 +1,5 @@
+2020/12/05-04:35:07.915 e39 Reusing MANIFEST /home/ape/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2020/12/05-04:35:07.918 e39 Recovering log #3
+2020/12/05-04:35:07.918 e39 Level-0 table #3: started
+2020/12/05-04:35:07.988 e39 Level-0 table #3: 22514 bytes OK
+2020/12/05-04:35:08.030 e39 Delete type=0 #3

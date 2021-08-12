@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/home/ape/.config/Code/User/workspaceStorage/62f360017a8924705f2f0c925f1ca7ea/redhat.java/.61d684a5ce93fdd1767ccbabfcc925266a6292f8-audit.json",
+    "files": [
+        {
+            "date": 1623205327305,
+            "name": "/home/ape/.config/Code/User/workspaceStorage/62f360017a8924705f2f0c925f1ca7ea/redhat.java/client.log.2021-06-08",
+            "hash": "cda5b849b12058404021ead721f502df"
+        }
+    ]
+}

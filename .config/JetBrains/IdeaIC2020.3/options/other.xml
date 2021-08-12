@@ -1,0 +1,115 @@
+<application>
+  <component name="JdkInstallerHistory">
+    <option name="installedItems">
+      <installed-jdk>
+        <option name="fullText" value="Amazon Corretto 1.8.0_282" />
+        <option name="installDir" value="$USER_HOME$/.jdks/corretto-1.8.0_282" />
+        <option name="javaHomeDir" value="$USER_HOME$/.jdks/corretto-1.8.0_282" />
+        <option name="sha256" value="5db96ea7c5fa34de4eadbc41e2adf1fccb7e373b5788f77e26e0d69b9e368b7f" />
+        <option name="url" value="https://corretto.aws/downloads/resources/8.282.08.1/amazon-corretto-8.282.08.1-linux-x64.tar.gz" />
+        <option name="versionText" value="1.8.0_282" />
+      </installed-jdk>
+    </option>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="JetBrainsMonoExtraBold Nerd Font" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="10" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1gXJTRBVeMssRE0sXHhG2agDD3W">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1og1n6hX7FN4kfA7oZmwU5ZvcIU">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1og7doPXmn7xhem0bXyf39v6GsI">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1ogYwX2apjYue95BihVq2kQe3Cv">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1ogeXs53cnNSNjZiq4amvNqpJff">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1oggZmHo2HnT1FnPhp3ayW6ZE3d">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1ogh0rKW3t3NkFvUzx5mv0LJkTd">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1th2du29mknnoBIjAkHAXsMQD97">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1th5KfYNX1GxMu5uebNmivOOsyT">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BuildView.Splitter.Proportion" value="0.21191029" />
+    <property name="FindSplitterProportion" value="0.0" />
+    <property name="Gradle.Splitter.Proportion" value="0.2412993" />
+    <property name="GradleSupport.hideIgnoredTests" value="false" />
+    <property name="GradleSupport.hidePassedTests" value="false" />
+    <property name="GradleSupport.showInternalTestNodes" value="false" />
+    <property name="MarketplacePluginsSearchHistory" value="codelytv&#10;codelyt&#10;codely&#10;codel&#10;code" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SettingsSearchHistory" value="font scheme" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="IC-203.7148.57-29384ec73a11fd408ecc720f59dea38b181ebae5e5c88d995e776a92bca89684" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="debugger.smart.chooser.counter" value="1" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/dd&#10;/home/ape/Documents/Javafx&#10;/home/ape/Documents/CAFERRERB/1/diseno2020_2-mitienda-storeapp&#10;/home/ape/Documents/CAFERRERB/2/diseno2020_2-mitienda-userapp&#10;/home/ape/Documents/CLASEACTUAL/diseno2020_2-mitienda-backend&#10;/home/ape/Downloads/parcial2/disenosoftware2020_examen&#10;/home/ape/Documents/Preparcial2/banco/banco&#10;/home/ape/Documents/clase/repositorios/diseno2020_2-mitienda-backend&#10;/home/ape/Documents/parcialbd/disenosoftware2020_examen&#10;/home/ape/Downloads/banco/banco&#10;/home/ape/Documents/Git/clase/Tiendita/diseno2020_2-mitienda-backend&#10;/home/ape/Documents/Git/clase/tienda/diseno2020_2-mitienda-backend" />
+    <property name="file.gist.reindex.count" value="519" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IC-203.7148.57" />
+    <property name="ignore.bundled.jre.version.message" value="true" />
+    <property name="installed.kotlin.plugin.version" value="203-1.4.10-release-IJ7148.5" />
+    <property name="jdk.selected.JAVA_MODULE" value="corretto-1.8" />
+    <property name="kotlin-gradle-user-dirs" value="$USER_HOME$/.gradle" />
+    <property name="lastSeenTip" value="neue-ColorEditingInCss.html" />
+    <property name="lastTimeTipsWereShown" value="1598255024489" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/dd" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1623207097600" />
+    <property name="project.wizard.group" value="groovy" />
+    <property name="project.wizard.template" value="JavaFX Application" />
+    <property name="seenTips" value="neue-ColorEditingInCss.html" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.7019667" />
+  </component>
+</application>

@@ -1,0 +1,650 @@
+{
+  message: 'Starting Java server with: /usr/lib/jvm/default/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -jar /home/ape/.vscode/extensions/redhat.java-0.78.0/server/plugins/org.eclipse.equinox.launcher_1.6.100.v20201223-0822.jar -configuration /home/ape/.config/Code/User/globalStorage/redhat.java/0.78.0/config_ss_linux -data /home/ape/.config/Code/User/workspaceStorage/9169d3db73867a05cb98b38328a03172/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2021-06-08 22:00:52.590'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/default/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -jar /home/ape/.vscode/extensions/redhat.java-0.78.0/server/plugins/org.eclipse.equinox.launcher_1.6.100.v20201223-0822.jar -configuration /home/ape/.config/Code/User/globalStorage/redhat.java/0.78.0/config_linux -data /home/ape/.config/Code/User/workspaceStorage/9169d3db73867a05cb98b38328a03172/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2021-06-08 22:00:52.739'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.jpackage\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:00:52.790'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.jpackage, jdk.incubator.foreign\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:00:52.940'
+}
+{
+  message: '[Error - 10:00:57 p.m.] Jun. 8, 2021, 10:00:57 p.m. Failed to build workspace.\n' +
+    'jdt.ls-java-project does not exist\n' +
+    'Java Model Exception: Java Model Status [jdt.ls-java-project does not exist]\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaProject.getPackageFragmentRoots(JavaProject.java:2322)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaProject.getPackageFragments(JavaProject.java:2346)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.cleanupResources(ProjectsManager.java:212)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.BuildWorkspaceHandler.buildWorkspace(BuildWorkspaceHandler.java:53)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$26(JDTLanguageServer.java:835)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$51(JDTLanguageServer.java:1007)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:00:57.742'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/default/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -jar /home/ape/.vscode/extensions/redhat.java-0.78.0/server/plugins/org.eclipse.equinox.launcher_1.6.100.v20201223-0822.jar -configuration /home/ape/.config/Code/User/globalStorage/redhat.java/0.78.0/config_ss_linux -data /home/ape/.config/Code/User/workspaceStorage/9169d3db73867a05cb98b38328a03172/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2021-06-08 22:01:23.030'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/default/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -jar /home/ape/.vscode/extensions/redhat.java-0.78.0/server/plugins/org.eclipse.equinox.launcher_1.6.100.v20201223-0822.jar -configuration /home/ape/.config/Code/User/globalStorage/redhat.java/0.78.0/config_linux -data /home/ape/.config/Code/User/workspaceStorage/9169d3db73867a05cb98b38328a03172/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2021-06-08 22:01:23.101'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.jpackage\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:01:23.296'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.jpackage\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:01:23.473'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/default/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -jar /home/ape/.vscode/extensions/redhat.java-0.78.0/server/plugins/org.eclipse.equinox.launcher_1.6.100.v20201223-0822.jar -configuration /home/ape/.config/Code/User/globalStorage/redhat.java/0.78.0/config_ss_linux -data /home/ape/.config/Code/User/workspaceStorage/9169d3db73867a05cb98b38328a03172/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2021-06-08 22:02:08.388'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/default/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -jar /home/ape/.vscode/extensions/redhat.java-0.78.0/server/plugins/org.eclipse.equinox.launcher_1.6.100.v20201223-0822.jar -configuration /home/ape/.config/Code/User/globalStorage/redhat.java/0.78.0/config_linux -data /home/ape/.config/Code/User/workspaceStorage/9169d3db73867a05cb98b38328a03172/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2021-06-08 22:02:08.464'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.jpackage, jdk.incubator.foreign\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:02:08.616'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.jpackage, jdk.incubator.foreign\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:02:09.042'
+}
+{
+  message: '[Error - 10:02:48 p.m.] Jun. 8, 2021, 10:02:48 p.m. Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ls.core".\n' +
+    "_/src/backend/data [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src/backend/data [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:02:48.721'
+}
+{
+  message: '[Error - 10:02:48 p.m.] Jun. 8, 2021, 10:02:48 p.m. Error in calling delegate command handler\n' +
+    "_/src/backend/data [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src/backend/data [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:02:48.723'
+}
+{
+  message: '[Error - 10:03:06 p.m.] Jun. 8, 2021, 10:03:06 p.m. Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ls.core".\n' +
+    "_/src/backend/data [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src/backend/data [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:03:06.159'
+}
+{
+  message: '[Error - 10:03:06 p.m.] Jun. 8, 2021, 10:03:06 p.m. Error in calling delegate command handler\n' +
+    "_/src/backend/data [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src/backend/data [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:03:06.162'
+}
+{
+  message: '[Error - 10:03:31 p.m.] Jun. 8, 2021, 10:03:31 p.m. Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ls.core".\n' +
+    "_/src [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:03:31.604'
+}
+{
+  message: '[Error - 10:03:31 p.m.] Jun. 8, 2021, 10:03:31 p.m. Error in calling delegate command handler\n' +
+    "_/src [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:03:31.606'
+}
+{
+  message: '[Error - 10:03:41 p.m.] Jun. 8, 2021, 10:03:41 p.m. Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ls.core".\n' +
+    "_/src [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:03:41.383'
+}
+{
+  message: '[Error - 10:03:41 p.m.] Jun. 8, 2021, 10:03:41 p.m. Error in calling delegate command handler\n' +
+    "_/src [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:03:41.384'
+}
+{
+  message: '[Error - 10:05:54 p.m.] Jun. 8, 2021, 10:05:54 p.m. Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ls.core".\n' +
+    "_/src/backend/data [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src/backend/data [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:05:54.376'
+}
+{
+  message: '[Error - 10:05:54 p.m.] Jun. 8, 2021, 10:05:54 p.m. Error in calling delegate command handler\n' +
+    "_/src/backend/data [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src/backend/data [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:05:54.378'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/default/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -jar /home/ape/.vscode/extensions/redhat.java-0.78.0/server/plugins/org.eclipse.equinox.launcher_1.6.100.v20201223-0822.jar -configuration /home/ape/.config/Code/User/globalStorage/redhat.java/0.78.0/config_ss_linux -data /home/ape/.config/Code/User/workspaceStorage/9169d3db73867a05cb98b38328a03172/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2021-06-08 22:25:53.926'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/default/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -jar /home/ape/.vscode/extensions/redhat.java-0.78.0/server/plugins/org.eclipse.equinox.launcher_1.6.100.v20201223-0822.jar -configuration /home/ape/.config/Code/User/globalStorage/redhat.java/0.78.0/config_linux -data /home/ape/.config/Code/User/workspaceStorage/9169d3db73867a05cb98b38328a03172/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2021-06-08 22:25:54.012'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.jpackage, jdk.incubator.foreign\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:25:54.158'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.jpackage\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:25:54.465'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/default/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -jar /home/ape/.vscode/extensions/redhat.java-0.78.0/server/plugins/org.eclipse.equinox.launcher_1.6.100.v20201223-0822.jar -configuration /home/ape/.config/Code/User/globalStorage/redhat.java/0.78.0/config_ss_linux -data /home/ape/.config/Code/User/workspaceStorage/9169d3db73867a05cb98b38328a03172/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2021-06-08 22:28:31.864'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/default/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -jar /home/ape/.vscode/extensions/redhat.java-0.78.0/server/plugins/org.eclipse.equinox.launcher_1.6.100.v20201223-0822.jar -configuration /home/ape/.config/Code/User/globalStorage/redhat.java/0.78.0/config_linux -data /home/ape/.config/Code/User/workspaceStorage/9169d3db73867a05cb98b38328a03172/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2021-06-08 22:28:31.948'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.jpackage, jdk.incubator.foreign\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:28:32.132'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.jpackage\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:28:32.330'
+}
+{
+  message: '[Error - 10:28:45 p.m.] Jun. 8, 2021, 10:28:45 p.m. Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ls.core".\n' +
+    "_/src [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:28:45.802'
+}
+{
+  message: '[Error - 10:28:45 p.m.] Jun. 8, 2021, 10:28:45 p.m. Error in calling delegate command handler\n' +
+    "_/src [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:28:45.811'
+}
+{
+  message: '[Error - 10:28:56 p.m.] Jun. 8, 2021, 10:28:56 p.m. Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ls.core".\n' +
+    "_/src [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:28:56.597'
+}
+{
+  message: '[Error - 10:28:56 p.m.] Jun. 8, 2021, 10:28:56 p.m. Error in calling delegate command handler\n' +
+    "_/src [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:28:56.600'
+}
+{
+  message: '[Error - 10:29:08 p.m.] Jun. 8, 2021, 10:29:08 p.m. Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ls.core".\n' +
+    "_/src [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:29:08.912'
+}
+{
+  message: '[Error - 10:29:08 p.m.] Jun. 8, 2021, 10:29:08 p.m. Error in calling delegate command handler\n' +
+    "_/src [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:29:08.918'
+}
+{
+  message: '[Error - 10:29:29 p.m.] Jun. 8, 2021, 10:29:29 p.m. Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ls.core".\n' +
+    "_/src [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:29:29.994'
+}
+{
+  message: '[Error - 10:29:29 p.m.] Jun. 8, 2021, 10:29:29 p.m. Error in calling delegate command handler\n' +
+    "_/src [in JavaSignUpTime_dec70243] is not on its project's build path\n" +
+    "Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]\n" +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)\n' +
+    '\tat org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)\n' +
+    '\tat org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)\n' +
+    '\tat org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)\n' +
+    '\tat com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)\n' +
+    '\tat com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)\n' +
+    '\tat com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)\n' +
+    '\tat org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)\n' +
+    '\tat org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)\n' +
+    '\tat java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)\n' +
+    '\tat java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:29:29.996'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/default/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -jar /home/ape/.vscode/extensions/redhat.java-0.78.0/server/plugins/org.eclipse.equinox.launcher_1.6.100.v20201223-0822.jar -configuration /home/ape/.config/Code/User/globalStorage/redhat.java/0.78.0/config_ss_linux -data /home/ape/.config/Code/User/workspaceStorage/9169d3db73867a05cb98b38328a03172/redhat.java/ss_ws',
+  level: 'info',
+  timestamp: '2021-06-08 22:30:54.066'
+}
+{
+  message: 'Starting Java server with: /usr/lib/jvm/default/bin/java --add-modules=ALL-SYSTEM --add-opens java.base/java.util=ALL-UNNAMED --add-opens java.base/java.lang=ALL-UNNAMED -Declipse.application=org.eclipse.jdt.ls.core.id1 -Dosgi.bundles.defaultStartLevel=4 -Declipse.product=org.eclipse.jdt.ls.core.product -Dfile.encoding=utf8 -XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m -jar /home/ape/.vscode/extensions/redhat.java-0.78.0/server/plugins/org.eclipse.equinox.launcher_1.6.100.v20201223-0822.jar -configuration /home/ape/.config/Code/User/globalStorage/redhat.java/0.78.0/config_linux -data /home/ape/.config/Code/User/workspaceStorage/9169d3db73867a05cb98b38328a03172/redhat.java/jdt_ws',
+  level: 'info',
+  timestamp: '2021-06-08 22:30:54.130'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.jpackage, jdk.incubator.foreign\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:30:54.318'
+}
+{
+  message: 'WARNING: Using incubator modules: jdk.incubator.foreign, jdk.incubator.jpackage\n',
+  level: 'info',
+  timestamp: '2021-06-08 22:30:54.603'
+}

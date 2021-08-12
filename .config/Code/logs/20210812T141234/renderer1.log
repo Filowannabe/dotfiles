@@ -1,0 +1,4 @@
+[2021-08-12 14:13:02.692] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 100% of 5300.248ms, saved PROFILE here: '/tmp/exthost-e5ca7d.cpuprofile' [{"id":"gc","total":110,"percentage":0},{"id":"ritwickdey.LiveServer","total":5299711,"percentage":100}]
+[2021-08-12 14:15:16.732] [renderer1] [warning] UNRESPONSIVE extension host, 'CoenraadS.bracket-pair-colorizer-2' took 100% of 5444.873ms, saved PROFILE here: '/tmp/exthost-c6c43c.cpuprofile' [{"id":"CoenraadS.bracket-pair-colorizer-2","total":5444460,"percentage":100}]
+[2021-08-12 14:15:34.222] [renderer1] [warning] [File Watcher (chokidar)] Error: Circular symlink detected: "/home/ape/.local/share/webkitgtk/databases/indexeddb/v0" points to "/home/ape/.local/share/webkitgtk/databases/indexeddb"
+[2021-08-12 14:17:58.498] [renderer1] [error] Failed to execute git

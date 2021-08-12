@@ -1,0 +1,1475 @@
+================================================================================
+SESSION: 23 Aug 2020 20:55:28 -0500. Executing krita
+
+Krita Version: 4.3.0, Qt version compiled: 5.15.0, loaded: 5.15.0. Process ID: 3228
+-- -- -- -- -- -- -- --
+23 Aug 2020 20:55:28 -0500: Style: fusion. Available styles: Windows, Fusion
+23 Aug 2020 20:55:52 -0500: Importing image/jpeg to application/x-krita. Location: /home/ape/Pictures/3b8ad2c7b1be2caf24321c852103598a.jpg. Real location: /home/ape/Pictures/3b8ad2c7b1be2caf24321c852103598a.jpg. Batchmode: 0
+23 Aug 2020 20:55:52 -0500: Loaded image from image/jpeg. Size: 3840 * 2160 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+23 Aug 2020 20:56:04 -0500: Importing image/png to application/x-krita. Location: /home/ape/2020-08-23-204802_1366x768_scrot.png. Real location: /home/ape/2020-08-23-204802_1366x768_scrot.png. Batchmode: 0
+23 Aug 2020 20:56:04 -0500: Loaded image from image/png. Size: 1366 * 768 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+23 Aug 2020 20:56:09 -0500: Importing image/png to application/x-krita. Location: /home/ape/2020-08-23-205517_1366x768_scrot.png. Real location: /home/ape/2020-08-23-205517_1366x768_scrot.png. Batchmode: 0
+23 Aug 2020 20:56:09 -0500: Loaded image from image/png. Size: 1366 * 768 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+23 Aug 2020 20:56:55 -0500: CLOSING SESSION
+================================================================================
+SESSION: 24 Aug 2020 20:14:29 -0500. Executing krita
+
+Krita Version: 4.3.0, Qt version compiled: 5.15.0, loaded: 5.15.0. Process ID: 12212
+-- -- -- -- -- -- -- --
+24 Aug 2020 20:14:29 -0500: Style: fusion. Available styles: Windows, Fusion
+24 Aug 2020 20:19:20 -0500: Created image "Unnamed", 4000 * 4000 pixels, 100 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+24 Aug 2020 20:34:20 -0500: Autosaving: /home/ape/krita-12212-document_0-autosave.kra
+24 Aug 2020 20:34:30 -0500: Autosaving: /home/ape/krita-12212-document_0-autosave.kra
+24 Aug 2020 20:34:30 -0500: Converting from application/x-krita to application/x-krita. Location: /home/ape/krita-12212-document_0-autosave.kra. Real location: /home/ape/krita-12212-document_0-autosave.kra. Batchmode: 0. Configuration: none
+24 Aug 2020 20:34:31 -0500: Completed saving /home/ape/krita-12212-document_0-autosave.kra (mime: application/x-krita). Result: OK. Size: 100825. MD5 Hash: 1d99dafdc2e1c34b162a58fee3818619
+24 Aug 2020 20:49:43 -0500: Autosaving: /home/ape/krita-12212-document_0-autosave.kra
+24 Aug 2020 20:49:43 -0500: Converting from application/x-krita to application/x-krita. Location: /home/ape/krita-12212-document_0-autosave.kra. Real location: /home/ape/krita-12212-document_0-autosave.kra. Batchmode: 0. Configuration: none
+24 Aug 2020 20:49:44 -0500: Completed saving /home/ape/krita-12212-document_0-autosave.kra (mime: application/x-krita). Result: OK. Size: 191224. MD5 Hash: 664ee366379fe7fba3eb2f1d94de3167
+24 Aug 2020 21:36:08 -0500: Autosaving: /home/ape/krita-12212-document_0-autosave.kra
+24 Aug 2020 21:36:08 -0500: Converting from application/x-krita to application/x-krita. Location: /home/ape/krita-12212-document_0-autosave.kra. Real location: /home/ape/krita-12212-document_0-autosave.kra. Batchmode: 0. Configuration: none
+24 Aug 2020 21:36:09 -0500: Completed saving /home/ape/krita-12212-document_0-autosave.kra (mime: application/x-krita). Result: OK. Size: 191223. MD5 Hash: 0a447d0d7d8a44587da02aeeb2dedcf9
+24 Aug 2020 22:28:19 -0500: Removing autosave file: /home/ape/krita-12212-document_0-autosave.kra
+24 Aug 2020 22:28:20 -0500: CLOSING SESSION
+================================================================================
+SESSION: 27 Aug 2020 18:43:18 -0500. Executing krita
+
+Krita Version: 4.3.0, Qt version compiled: 5.15.0, loaded: 5.15.0. Process ID: 2534
+-- -- -- -- -- -- -- --
+27 Aug 2020 18:43:18 -0500: Style: fusion. Available styles: Windows, Fusion
+27 Aug 2020 18:43:37 -0500: Created image "Unnamed", 4000 * 4000 pixels, 100 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+27 Aug 2020 18:58:37 -0500: Autosaving: /home/ape/krita-2534-document_0-autosave.kra
+27 Aug 2020 18:58:37 -0500: Converting from application/x-krita to application/x-krita. Location: /home/ape/krita-2534-document_0-autosave.kra. Real location: /home/ape/krita-2534-document_0-autosave.kra. Batchmode: 0. Configuration: none
+27 Aug 2020 18:58:38 -0500: Completed saving /home/ape/krita-2534-document_0-autosave.kra (mime: application/x-krita). Result: OK. Size: 220316. MD5 Hash: 4f838b9db4d8ad2bb53838ab8ebadc8a
+27 Aug 2020 19:46:36 -0500: Removing autosave file: /home/ape/krita-2534-document_0-autosave.kra
+27 Aug 2020 19:46:37 -0500: CLOSING SESSION
+================================================================================
+SESSION: 25 Oct 2020 20:22:29 -0500. Executing krita
+
+Krita Version: 4.4.0, Qt version compiled: 5.15.1, loaded: 5.15.1. Process ID: 12063
+-- -- -- -- -- -- -- --
+25 Oct 2020 20:22:29 -0500: Style: fusion. Available styles: Windows, Fusion
+25 Oct 2020 20:23:16 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/Screenshot_2020-10-25 Azucar Blanco Especial x 2500 g - Compra Online en Colombia exito com.png. Real location: /home/ape/Downloads/Screenshot_2020-10-25 Azucar Blanco Especial x 2500 g - Compra Online en Colombia exito com.png. Batchmode: 0
+25 Oct 2020 20:23:16 -0500: Loaded image from image/png. Size: 101 * 101 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:23:46 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/51.png. Real location: /home/ape/Downloads/51.png. Batchmode: 0
+25 Oct 2020 20:23:46 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:25:13 -0500: Saving Document /home/ape/Downloads/51.png as /home/ape/Downloads/51_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:25:25 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/51_large.jpg. Real location: /home/ape/Downloads/51_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:25:26 -0500: Completed saving /home/ape/Downloads/51_large.jpg (mime: image/jpeg). Result: OK. Size: 45596. MD5 Hash: 8505c8b6612b222e799b2a18d0b57fa2
+25 Oct 2020 20:25:26 -0500: Saving Completed
+25 Oct 2020 20:25:51 -0500: Saving Document /home/ape/Downloads/51_large.jpg as /home/ape/Downloads/51_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:25:52 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/51_small.jpg. Real location: /home/ape/Downloads/51_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:25:53 -0500: Completed saving /home/ape/Downloads/51_small.jpg (mime: image/jpeg). Result: OK. Size: 16502. MD5 Hash: 43b0de1afae1d70dab57182da4615a75
+25 Oct 2020 20:25:53 -0500: Saving Completed
+25 Oct 2020 20:26:43 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/52.png. Real location: /home/ape/Downloads/52.png. Batchmode: 0
+25 Oct 2020 20:26:43 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:26:59 -0500: Saving Document /home/ape/Downloads/52.png as /home/ape/Downloads/52_large.png (mime: image/png). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:27:05 -0500: Completed saving /home/ape/Downloads/52_large.png (mime: image/png). Result: The action was cancelled by the user.. Size: 0. MD5 Hash: 
+25 Oct 2020 20:27:05 -0500: Saving canceled. Error:
+25 Oct 2020 20:27:05 -0500: Saving Completed
+25 Oct 2020 20:27:15 -0500: Saving Document /home/ape/Downloads/52.png as /home/ape/Downloads/52_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:27:18 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/52_large.jpg. Real location: /home/ape/Downloads/52_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:27:18 -0500: Completed saving /home/ape/Downloads/52_large.jpg (mime: image/jpeg). Result: OK. Size: 41430. MD5 Hash: 1d0f2469e90243219d2b7b8bcad9a237
+25 Oct 2020 20:27:18 -0500: Saving Completed
+25 Oct 2020 20:28:38 -0500: Saving Document /home/ape/Downloads/52_large.jpg as /home/ape/Downloads/52_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:28:40 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/52_small.jpg. Real location: /home/ape/Downloads/52_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:28:40 -0500: Completed saving /home/ape/Downloads/52_small.jpg (mime: image/jpeg). Result: OK. Size: 15886. MD5 Hash: 39f31e1b42cd00dcbc4ca70965328db1
+25 Oct 2020 20:28:40 -0500: Saving Completed
+25 Oct 2020 20:29:11 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/53.png. Real location: /home/ape/Downloads/53.png. Batchmode: 0
+25 Oct 2020 20:29:11 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:29:33 -0500: Saving Document /home/ape/Downloads/53.png as /home/ape/Downloads/53_large.png (mime: image/png). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:29:37 -0500: Completed saving /home/ape/Downloads/53_large.png (mime: image/png). Result: The action was cancelled by the user.. Size: 0. MD5 Hash: 
+25 Oct 2020 20:29:37 -0500: Saving canceled. Error:
+25 Oct 2020 20:29:37 -0500: Saving Completed
+25 Oct 2020 20:29:51 -0500: Saving Document /home/ape/Downloads/53.png as /home/ape/Downloads/53_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:29:52 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/53_large.jpg. Real location: /home/ape/Downloads/53_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:29:52 -0500: Completed saving /home/ape/Downloads/53_large.jpg (mime: image/jpeg). Result: OK. Size: 59301. MD5 Hash: 66710b24f054dd08a2be11ac78ad999d
+25 Oct 2020 20:29:52 -0500: Saving Completed
+25 Oct 2020 20:30:08 -0500: Saving Document /home/ape/Downloads/53_large.jpg as /home/ape/Downloads/53_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:30:10 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/53_small.jpg. Real location: /home/ape/Downloads/53_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:30:10 -0500: Completed saving /home/ape/Downloads/53_small.jpg (mime: image/jpeg). Result: OK. Size: 18550. MD5 Hash: d875e5a789f7036c1dd1d0c114f9754a
+25 Oct 2020 20:30:10 -0500: Saving Completed
+25 Oct 2020 20:30:16 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/54.png. Real location: /home/ape/Downloads/54.png. Batchmode: 0
+25 Oct 2020 20:30:16 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:30:30 -0500: Saving Document /home/ape/Downloads/54.png as /home/ape/Downloads/54_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:30:31 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/54_large.jpg. Real location: /home/ape/Downloads/54_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:30:31 -0500: Completed saving /home/ape/Downloads/54_large.jpg (mime: image/jpeg). Result: OK. Size: 59251. MD5 Hash: b758004afd866c619e399bf60fb78e54
+25 Oct 2020 20:30:31 -0500: Saving Completed
+25 Oct 2020 20:30:54 -0500: Saving Document /home/ape/Downloads/54_large.jpg as /home/ape/Downloads/54_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:30:55 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/54_small.jpg. Real location: /home/ape/Downloads/54_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:30:55 -0500: Completed saving /home/ape/Downloads/54_small.jpg (mime: image/jpeg). Result: OK. Size: 19657. MD5 Hash: 77c6c49915fdb27f68ce76dfcbc053c1
+25 Oct 2020 20:30:55 -0500: Saving Completed
+25 Oct 2020 20:31:03 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/55.png. Real location: /home/ape/Downloads/55.png. Batchmode: 0
+25 Oct 2020 20:31:03 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:31:18 -0500: Saving Document /home/ape/Downloads/55.png as /home/ape/Downloads/55_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:31:19 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/55_large.jpg. Real location: /home/ape/Downloads/55_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:31:19 -0500: Completed saving /home/ape/Downloads/55_large.jpg (mime: image/jpeg). Result: OK. Size: 57676. MD5 Hash: 886121c7aca900d6a48392bc1d2042b0
+25 Oct 2020 20:31:19 -0500: Saving Completed
+25 Oct 2020 20:31:57 -0500: Saving Document /home/ape/Downloads/55_large.jpg as /home/ape/Downloads/55_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:31:58 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/55_small.jpg. Real location: /home/ape/Downloads/55_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:31:58 -0500: Completed saving /home/ape/Downloads/55_small.jpg (mime: image/jpeg). Result: OK. Size: 17980. MD5 Hash: a99f241561578fda8a0468c94a6909c9
+25 Oct 2020 20:31:58 -0500: Saving Completed
+25 Oct 2020 20:32:05 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/56.png. Real location: /home/ape/Downloads/56.png. Batchmode: 0
+25 Oct 2020 20:32:05 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:32:32 -0500: Saving Document /home/ape/Downloads/56.png as /home/ape/Downloads/56_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:32:33 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/56_large.jpg. Real location: /home/ape/Downloads/56_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:32:34 -0500: Completed saving /home/ape/Downloads/56_large.jpg (mime: image/jpeg). Result: OK. Size: 47430. MD5 Hash: 5cac57315ea9943b2b853be754449761
+25 Oct 2020 20:32:34 -0500: Saving Completed
+25 Oct 2020 20:32:46 -0500: Saving Document /home/ape/Downloads/56_large.jpg as /home/ape/Downloads/56_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:32:47 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/56_small.jpg. Real location: /home/ape/Downloads/56_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:32:48 -0500: Completed saving /home/ape/Downloads/56_small.jpg (mime: image/jpeg). Result: OK. Size: 16178. MD5 Hash: 7c2597ab5487d387212014e6e35973ec
+25 Oct 2020 20:32:48 -0500: Saving Completed
+25 Oct 2020 20:33:22 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/57.png. Real location: /home/ape/Downloads/57.png. Batchmode: 0
+25 Oct 2020 20:33:22 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:33:34 -0500: Saving Document /home/ape/Downloads/57.png as /home/ape/Downloads/57_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:33:35 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/57_large.jpg. Real location: /home/ape/Downloads/57_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:33:35 -0500: Completed saving /home/ape/Downloads/57_large.jpg (mime: image/jpeg). Result: OK. Size: 26763. MD5 Hash: 2f1fbb4a9fadcfe80427aee648cf1365
+25 Oct 2020 20:33:35 -0500: Saving Completed
+25 Oct 2020 20:33:47 -0500: Saving Document /home/ape/Downloads/57_large.jpg as /home/ape/Downloads/57_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:33:48 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/57_small.jpg. Real location: /home/ape/Downloads/57_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:33:48 -0500: Completed saving /home/ape/Downloads/57_small.jpg (mime: image/jpeg). Result: OK. Size: 13116. MD5 Hash: 3e90ebd9057897452b6cf803f4cda394
+25 Oct 2020 20:33:48 -0500: Saving Completed
+25 Oct 2020 20:34:38 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/58.png. Real location: /home/ape/Downloads/58.png. Batchmode: 0
+25 Oct 2020 20:34:38 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:34:50 -0500: Saving Document /home/ape/Downloads/58.png as /home/ape/Downloads/58_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:34:51 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/58_large.jpg. Real location: /home/ape/Downloads/58_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:34:51 -0500: Completed saving /home/ape/Downloads/58_large.jpg (mime: image/jpeg). Result: OK. Size: 54607. MD5 Hash: 2521cf1f77f9a3ca89f9ed7dad2aee17
+25 Oct 2020 20:34:51 -0500: Saving Completed
+25 Oct 2020 20:35:04 -0500: Saving Document /home/ape/Downloads/58_large.jpg as /home/ape/Downloads/58_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:35:04 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/58_small.jpg. Real location: /home/ape/Downloads/58_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:35:05 -0500: Completed saving /home/ape/Downloads/58_small.jpg (mime: image/jpeg). Result: OK. Size: 18227. MD5 Hash: 29d962532375a8f87379ad9807c85c42
+25 Oct 2020 20:35:05 -0500: Saving Completed
+25 Oct 2020 20:35:11 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/59.png. Real location: /home/ape/Downloads/59.png. Batchmode: 0
+25 Oct 2020 20:35:11 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:35:19 -0500: Saving Document /home/ape/Downloads/59.png as /home/ape/Downloads/59_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:35:20 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/59_large.jpg. Real location: /home/ape/Downloads/59_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:35:20 -0500: Completed saving /home/ape/Downloads/59_large.jpg (mime: image/jpeg). Result: OK. Size: 48821. MD5 Hash: f24b8a72710007d21ae7dcc57ccfc3ae
+25 Oct 2020 20:35:20 -0500: Saving Completed
+25 Oct 2020 20:35:33 -0500: Saving Document /home/ape/Downloads/59_large.jpg as /home/ape/Downloads/59_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:35:33 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/59_small.jpg. Real location: /home/ape/Downloads/59_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:35:34 -0500: Completed saving /home/ape/Downloads/59_small.jpg (mime: image/jpeg). Result: OK. Size: 16630. MD5 Hash: 58c584e795c0412658480d0497abdb5d
+25 Oct 2020 20:35:34 -0500: Saving Completed
+25 Oct 2020 20:35:48 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/60.png. Real location: /home/ape/Downloads/60.png. Batchmode: 0
+25 Oct 2020 20:35:48 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:35:58 -0500: Saving Document /home/ape/Downloads/60.png as /home/ape/Downloads/60_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:35:59 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/60_large.jpg. Real location: /home/ape/Downloads/60_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:35:59 -0500: Completed saving /home/ape/Downloads/60_large.jpg (mime: image/jpeg). Result: OK. Size: 42681. MD5 Hash: 19f2a83dc933e6107cb25f087297daaf
+25 Oct 2020 20:35:59 -0500: Saving Completed
+25 Oct 2020 20:36:11 -0500: Saving Document /home/ape/Downloads/60_large.jpg as /home/ape/Downloads/60_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:36:12 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/60_small.jpg. Real location: /home/ape/Downloads/60_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:36:12 -0500: Completed saving /home/ape/Downloads/60_small.jpg (mime: image/jpeg). Result: OK. Size: 16263. MD5 Hash: fc1c70312954841eea8ed2585d5188b6
+25 Oct 2020 20:36:12 -0500: Saving Completed
+25 Oct 2020 20:36:19 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/61.png. Real location: /home/ape/Downloads/61.png. Batchmode: 0
+25 Oct 2020 20:36:19 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:36:26 -0500: Saving Document /home/ape/Downloads/61.png as /home/ape/Downloads/61_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:36:27 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/61_large.jpg. Real location: /home/ape/Downloads/61_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:36:27 -0500: Completed saving /home/ape/Downloads/61_large.jpg (mime: image/jpeg). Result: OK. Size: 48235. MD5 Hash: 584e33cda2b0f18eefea344b0e29c290
+25 Oct 2020 20:36:27 -0500: Saving Completed
+25 Oct 2020 20:36:38 -0500: Saving Document /home/ape/Downloads/61_large.jpg as /home/ape/Downloads/61_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:36:38 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/61_small.jpg. Real location: /home/ape/Downloads/61_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:36:39 -0500: Completed saving /home/ape/Downloads/61_small.jpg (mime: image/jpeg). Result: OK. Size: 16096. MD5 Hash: 8f8a824bf249823f74541a208c5f6ca0
+25 Oct 2020 20:36:39 -0500: Saving Completed
+25 Oct 2020 20:36:46 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/62.png. Real location: /home/ape/Downloads/62.png. Batchmode: 0
+25 Oct 2020 20:36:46 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:36:54 -0500: Saving Document /home/ape/Downloads/62.png as /home/ape/Downloads/62_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:36:54 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/62_large.jpg. Real location: /home/ape/Downloads/62_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:36:55 -0500: Completed saving /home/ape/Downloads/62_large.jpg (mime: image/jpeg). Result: OK. Size: 46625. MD5 Hash: fb127cf21b849b00a5bd61fb4aa866b4
+25 Oct 2020 20:36:55 -0500: Saving Completed
+25 Oct 2020 20:37:06 -0500: Saving Document /home/ape/Downloads/62_large.jpg as /home/ape/Downloads/62_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:37:07 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/62_small.jpg. Real location: /home/ape/Downloads/62_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:37:07 -0500: Completed saving /home/ape/Downloads/62_small.jpg (mime: image/jpeg). Result: OK. Size: 16096. MD5 Hash: 606dbb24e74e873b7caa99639552c5fc
+25 Oct 2020 20:37:07 -0500: Saving Completed
+25 Oct 2020 20:37:17 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/63.png. Real location: /home/ape/Downloads/63.png. Batchmode: 0
+25 Oct 2020 20:37:17 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:37:40 -0500: Saving Document /home/ape/Downloads/63.png as /home/ape/Downloads/63_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:37:42 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/63_large.jpg. Real location: /home/ape/Downloads/63_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:37:42 -0500: Completed saving /home/ape/Downloads/63_large.jpg (mime: image/jpeg). Result: OK. Size: 53477. MD5 Hash: 788ff33bb4a4d28cb93db274c048aa27
+25 Oct 2020 20:37:42 -0500: Saving Completed
+25 Oct 2020 20:38:02 -0500: Saving Document /home/ape/Downloads/63_large.jpg as /home/ape/Downloads/63_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:38:03 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/63_small.jpg. Real location: /home/ape/Downloads/63_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:38:03 -0500: Completed saving /home/ape/Downloads/63_small.jpg (mime: image/jpeg). Result: OK. Size: 17864. MD5 Hash: 0575826eb7a5009c7f8b4118bda8e330
+25 Oct 2020 20:38:03 -0500: Saving Completed
+25 Oct 2020 20:38:10 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/64.png. Real location: /home/ape/Downloads/64.png. Batchmode: 0
+25 Oct 2020 20:38:10 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:38:20 -0500: Saving Document /home/ape/Downloads/64.png as /home/ape/Downloads/64_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:38:21 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/64_large.jpg. Real location: /home/ape/Downloads/64_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:38:21 -0500: Completed saving /home/ape/Downloads/64_large.jpg (mime: image/jpeg). Result: OK. Size: 42648. MD5 Hash: a7b0a916f76cca3f5d35d82d4730154d
+25 Oct 2020 20:38:21 -0500: Saving Completed
+25 Oct 2020 20:38:52 -0500: Saving Document /home/ape/Downloads/64_large.jpg as /home/ape/Downloads/64_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:38:53 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/64_small.jpg. Real location: /home/ape/Downloads/64_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:38:53 -0500: Completed saving /home/ape/Downloads/64_small.jpg (mime: image/jpeg). Result: OK. Size: 16448. MD5 Hash: 98e2d078c7d6d7e093f68abbcc5cb171
+25 Oct 2020 20:38:53 -0500: Saving Completed
+25 Oct 2020 20:39:01 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/65.png. Real location: /home/ape/Downloads/65.png. Batchmode: 0
+25 Oct 2020 20:39:01 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:39:20 -0500: Saving Document /home/ape/Downloads/65.png as /home/ape/Downloads/65_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:39:21 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/65_large.jpg. Real location: /home/ape/Downloads/65_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:39:21 -0500: Completed saving /home/ape/Downloads/65_large.jpg (mime: image/jpeg). Result: OK. Size: 48110. MD5 Hash: 7063e32e17f56af35a6364f5f4e605ce
+25 Oct 2020 20:39:21 -0500: Saving Completed
+25 Oct 2020 20:39:35 -0500: Saving Document /home/ape/Downloads/65_large.jpg as /home/ape/Downloads/65_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:39:35 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/65_small.jpg. Real location: /home/ape/Downloads/65_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:39:36 -0500: Completed saving /home/ape/Downloads/65_small.jpg (mime: image/jpeg). Result: OK. Size: 16720. MD5 Hash: 629799ebd6e47dba9d4209bc3afe936e
+25 Oct 2020 20:39:36 -0500: Saving Completed
+25 Oct 2020 20:39:40 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/66.png. Real location: /home/ape/Downloads/66.png. Batchmode: 0
+25 Oct 2020 20:39:40 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:39:52 -0500: Saving Document /home/ape/Downloads/66.png as /home/ape/Downloads/66_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:39:52 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/66_large.jpg. Real location: /home/ape/Downloads/66_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:39:53 -0500: Completed saving /home/ape/Downloads/66_large.jpg (mime: image/jpeg). Result: OK. Size: 26464. MD5 Hash: e8f5c9cb9e49f84c1162358f565f6de1
+25 Oct 2020 20:39:53 -0500: Saving Completed
+25 Oct 2020 20:40:04 -0500: Saving Document /home/ape/Downloads/66_large.jpg as /home/ape/Downloads/66_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:40:05 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/66_small.jpg. Real location: /home/ape/Downloads/66_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:40:05 -0500: Completed saving /home/ape/Downloads/66_small.jpg (mime: image/jpeg). Result: OK. Size: 13045. MD5 Hash: 7f974aeca1ea80741e4781269b877e24
+25 Oct 2020 20:40:05 -0500: Saving Completed
+25 Oct 2020 20:40:10 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/67.png. Real location: /home/ape/Downloads/67.png. Batchmode: 0
+25 Oct 2020 20:40:10 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:40:20 -0500: Saving Document /home/ape/Downloads/67.png as /home/ape/Downloads/67_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:40:20 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/67_large.jpg. Real location: /home/ape/Downloads/67_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:40:21 -0500: Completed saving /home/ape/Downloads/67_large.jpg (mime: image/jpeg). Result: OK. Size: 31785. MD5 Hash: 37df5832f71f5c4b377021326643e5ef
+25 Oct 2020 20:40:21 -0500: Saving Completed
+25 Oct 2020 20:40:38 -0500: Saving Document /home/ape/Downloads/67_large.jpg as /home/ape/Downloads/67_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:40:39 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/67_small.jpg. Real location: /home/ape/Downloads/67_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:40:40 -0500: Completed saving /home/ape/Downloads/67_small.jpg (mime: image/jpeg). Result: OK. Size: 14204. MD5 Hash: 409f793e16f50454cd307c2e179764ec
+25 Oct 2020 20:40:40 -0500: Saving Completed
+25 Oct 2020 20:40:46 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/68.png. Real location: /home/ape/Downloads/68.png. Batchmode: 0
+25 Oct 2020 20:40:46 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:41:02 -0500: Saving Document /home/ape/Downloads/68.png as /home/ape/Downloads/68_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:41:03 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/68_large.jpg. Real location: /home/ape/Downloads/68_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:41:03 -0500: Completed saving /home/ape/Downloads/68_large.jpg (mime: image/jpeg). Result: OK. Size: 54534. MD5 Hash: 02669994023f01164f7bac5c7914e9dd
+25 Oct 2020 20:41:03 -0500: Saving Completed
+25 Oct 2020 20:41:08 -0500: Saving Document /home/ape/Downloads/68_large.jpg as /home/ape/Downloads/68_large.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:41:08 -0500: Create a simple backup for /home/ape/Downloads/68_large.jpg in the same location as the file.
+25 Oct 2020 20:41:12 -0500: Completed saving /home/ape/Downloads/68_large.jpg (mime: image/jpeg). Result: The action was cancelled by the user.. Size: 54534. MD5 Hash: 02669994023f01164f7bac5c7914e9dd
+25 Oct 2020 20:41:12 -0500: Saving canceled. Error:
+25 Oct 2020 20:41:12 -0500: Saving Completed
+25 Oct 2020 20:41:12 -0500: Saving Document /home/ape/Downloads/68_large.jpg as /home/ape/Downloads/68_large.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:41:12 -0500: Create a simple backup for /home/ape/Downloads/68_large.jpg in the same location as the file.
+25 Oct 2020 20:41:14 -0500: Completed saving /home/ape/Downloads/68_large.jpg (mime: image/jpeg). Result: The action was cancelled by the user.. Size: 54534. MD5 Hash: 02669994023f01164f7bac5c7914e9dd
+25 Oct 2020 20:41:14 -0500: Saving canceled. Error:
+25 Oct 2020 20:41:14 -0500: Saving Completed
+25 Oct 2020 20:41:24 -0500: Saving Document /home/ape/Downloads/68_large.jpg as /home/ape/Downloads/68_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:41:25 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/68_small.jpg. Real location: /home/ape/Downloads/68_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:41:25 -0500: Completed saving /home/ape/Downloads/68_small.jpg (mime: image/jpeg). Result: OK. Size: 18039. MD5 Hash: 258325c6ad8ac7e3312af1b8cc145a10
+25 Oct 2020 20:41:25 -0500: Saving Completed
+25 Oct 2020 20:41:31 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/69.png. Real location: /home/ape/Downloads/69.png. Batchmode: 0
+25 Oct 2020 20:41:31 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:42:02 -0500: Saving Document /home/ape/Downloads/69.png as /home/ape/Downloads/69_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:42:03 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/69_large.jpg. Real location: /home/ape/Downloads/69_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:42:03 -0500: Completed saving /home/ape/Downloads/69_large.jpg (mime: image/jpeg). Result: OK. Size: 44744. MD5 Hash: 561dae9ae00b4a190fa588b9f24066cd
+25 Oct 2020 20:42:03 -0500: Saving Completed
+25 Oct 2020 20:42:14 -0500: Saving Document /home/ape/Downloads/69_large.jpg as /home/ape/Downloads/69_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:42:14 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/69_small.jpg. Real location: /home/ape/Downloads/69_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:42:15 -0500: Completed saving /home/ape/Downloads/69_small.jpg (mime: image/jpeg). Result: OK. Size: 16374. MD5 Hash: a7fa141f4f45a580cd5adc92363fc8cf
+25 Oct 2020 20:42:15 -0500: Saving Completed
+25 Oct 2020 20:42:21 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/70.png. Real location: /home/ape/Downloads/70.png. Batchmode: 0
+25 Oct 2020 20:42:21 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:42:30 -0500: Saving Document /home/ape/Downloads/70.png as /home/ape/Downloads/70_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:42:31 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/70_large.jpg. Real location: /home/ape/Downloads/70_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:42:31 -0500: Completed saving /home/ape/Downloads/70_large.jpg (mime: image/jpeg). Result: OK. Size: 54812. MD5 Hash: 05d7ca51fa805bf985bad8ad820a56d9
+25 Oct 2020 20:42:31 -0500: Saving Completed
+25 Oct 2020 20:42:43 -0500: Saving Document /home/ape/Downloads/70_large.jpg as /home/ape/Downloads/70_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:42:44 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/70_small.jpg. Real location: /home/ape/Downloads/70_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:42:44 -0500: Completed saving /home/ape/Downloads/70_small.jpg (mime: image/jpeg). Result: OK. Size: 18113. MD5 Hash: c512096e89a17a7422d12d4d268df4ef
+25 Oct 2020 20:42:44 -0500: Saving Completed
+25 Oct 2020 20:43:21 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/71.png. Real location: /home/ape/Downloads/71.png. Batchmode: 0
+25 Oct 2020 20:43:21 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:43:30 -0500: Saving Document /home/ape/Downloads/71.png as /home/ape/Downloads/71_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:43:31 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/71_large.jpg. Real location: /home/ape/Downloads/71_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:43:31 -0500: Completed saving /home/ape/Downloads/71_large.jpg (mime: image/jpeg). Result: OK. Size: 36494. MD5 Hash: 35c373d31328a6352d560a3d9b2c37d3
+25 Oct 2020 20:43:31 -0500: Saving Completed
+25 Oct 2020 20:43:42 -0500: Saving Document /home/ape/Downloads/71_large.jpg as /home/ape/Downloads/71_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:43:43 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/71_small.jpg. Real location: /home/ape/Downloads/71_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:43:43 -0500: Completed saving /home/ape/Downloads/71_small.jpg (mime: image/jpeg). Result: OK. Size: 15024. MD5 Hash: 275e30fb09ecf615355933be5b56d9ca
+25 Oct 2020 20:43:43 -0500: Saving Completed
+25 Oct 2020 20:44:07 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/72.png. Real location: /home/ape/Downloads/72.png. Batchmode: 0
+25 Oct 2020 20:44:07 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:44:16 -0500: Saving Document /home/ape/Downloads/72.png as /home/ape/Downloads/72_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:44:17 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/72_large.jpg. Real location: /home/ape/Downloads/72_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:44:17 -0500: Completed saving /home/ape/Downloads/72_large.jpg (mime: image/jpeg). Result: OK. Size: 38024. MD5 Hash: d94ede8c6cab013304c299076cf1f452
+25 Oct 2020 20:44:17 -0500: Saving Completed
+25 Oct 2020 20:44:26 -0500: Saving Document /home/ape/Downloads/72_large.jpg as /home/ape/Downloads/72_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:44:26 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/72_small.jpg. Real location: /home/ape/Downloads/72_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:44:27 -0500: Completed saving /home/ape/Downloads/72_small.jpg (mime: image/jpeg). Result: OK. Size: 15532. MD5 Hash: 4e8135680a9c91c6a504029de51e2bd4
+25 Oct 2020 20:44:27 -0500: Saving Completed
+25 Oct 2020 20:44:36 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/73.png. Real location: /home/ape/Downloads/73.png. Batchmode: 0
+25 Oct 2020 20:44:36 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:44:44 -0500: Saving Document /home/ape/Downloads/73.png as /home/ape/Downloads/73_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:44:45 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/73_large.jpg. Real location: /home/ape/Downloads/73_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:44:45 -0500: Completed saving /home/ape/Downloads/73_large.jpg (mime: image/jpeg). Result: OK. Size: 45795. MD5 Hash: 6f47f7d580feb85f00421ca9865f4fb5
+25 Oct 2020 20:44:45 -0500: Saving Completed
+25 Oct 2020 20:44:55 -0500: Saving Document /home/ape/Downloads/73_large.jpg as /home/ape/Downloads/73_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:45:04 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/73_small.jpg. Real location: /home/ape/Downloads/73_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:45:04 -0500: Completed saving /home/ape/Downloads/73_small.jpg (mime: image/jpeg). Result: OK. Size: 16025. MD5 Hash: 6ff952a8570bfcd65bb21bb89a177a9a
+25 Oct 2020 20:45:04 -0500: Saving Completed
+25 Oct 2020 20:45:09 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/74.png. Real location: /home/ape/Downloads/74.png. Batchmode: 0
+25 Oct 2020 20:45:09 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:45:21 -0500: Saving Document /home/ape/Downloads/74.png as /home/ape/Downloads/74_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:45:22 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/74_large.jpg. Real location: /home/ape/Downloads/74_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:45:22 -0500: Completed saving /home/ape/Downloads/74_large.jpg (mime: image/jpeg). Result: OK. Size: 44680. MD5 Hash: 1fd56ff937afa3ca4b6e4cec5e2d211d
+25 Oct 2020 20:45:22 -0500: Saving Completed
+25 Oct 2020 20:45:26 -0500: Saving Document /home/ape/Downloads/74_large.jpg as /home/ape/Downloads/74_large.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:45:26 -0500: Create a simple backup for /home/ape/Downloads/74_large.jpg in the same location as the file.
+25 Oct 2020 20:45:27 -0500: Completed saving /home/ape/Downloads/74_large.jpg (mime: image/jpeg). Result: The action was cancelled by the user.. Size: 44680. MD5 Hash: 1fd56ff937afa3ca4b6e4cec5e2d211d
+25 Oct 2020 20:45:27 -0500: Saving canceled. Error:
+25 Oct 2020 20:45:27 -0500: Saving Completed
+25 Oct 2020 20:45:32 -0500: Saving Document /home/ape/Downloads/74_large.jpg as /home/ape/Downloads/74_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:45:33 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/74_small.jpg. Real location: /home/ape/Downloads/74_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:45:33 -0500: Completed saving /home/ape/Downloads/74_small.jpg (mime: image/jpeg). Result: OK. Size: 16456. MD5 Hash: 9aa6eb3977e8e2450615109fdcd72cc9
+25 Oct 2020 20:45:33 -0500: Saving Completed
+25 Oct 2020 20:45:38 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/75.png. Real location: /home/ape/Downloads/75.png. Batchmode: 0
+25 Oct 2020 20:45:38 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:45:46 -0500: Saving Document /home/ape/Downloads/75.png as /home/ape/Downloads/75_lare.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:45:47 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/75_lare.jpg. Real location: /home/ape/Downloads/75_lare.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:45:47 -0500: Completed saving /home/ape/Downloads/75_lare.jpg (mime: image/jpeg). Result: OK. Size: 39413. MD5 Hash: 7ddb9e32435e8d5d701e1f5a204fc2bc
+25 Oct 2020 20:45:47 -0500: Saving Completed
+25 Oct 2020 20:46:13 -0500: Saving Document /home/ape/Downloads/75_lare.jpg as /home/ape/Downloads/75_small.jpg (mime: image/jpeg). 101 * 101 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:46:14 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/75_small.jpg. Real location: /home/ape/Downloads/75_small.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB g="1" space="sRGB-elle-V2-g10.icc" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:46:14 -0500: Completed saving /home/ape/Downloads/75_small.jpg (mime: image/jpeg). Result: OK. Size: 15822. MD5 Hash: 22873b1ff16cc306a0cde96c83a55021
+25 Oct 2020 20:46:14 -0500: Saving Completed
+25 Oct 2020 20:47:06 -0500: CLOSING SESSION
+================================================================================
+SESSION: 25 Oct 2020 20:52:47 -0500. Executing krita
+
+Krita Version: 4.4.0, Qt version compiled: 5.15.1, loaded: 5.15.1. Process ID: 16740
+-- -- -- -- -- -- -- --
+25 Oct 2020 20:52:47 -0500: Style: fusion. Available styles: Windows, Fusion
+25 Oct 2020 20:52:59 -0500: Importing image/png to application/x-krita. Location: /home/ape/Downloads/74.png. Real location: /home/ape/Downloads/74.png. Batchmode: 0
+25 Oct 2020 20:52:59 -0500: Loaded image from image/png. Size: 262 * 262 pixels, 1 dpi. Color model: 8-bit integer/channel RGB/Alpha (sRGB-elle-V2-srgbtrc.icc). Layers: 2
+25 Oct 2020 20:53:16 -0500: Saving Document /home/ape/Downloads/74.png as /home/ape/Downloads/74_large.jpg (mime: image/jpeg). 262 * 262 pixels, 2 layers.  101 frames, 24 framerate. Export configuration: No configuration
+25 Oct 2020 20:53:17 -0500: Converting from application/x-krita to image/jpeg. Location: /home/ape/Downloads/74_large.jpg. Real location: /home/ape/Downloads/74_large.jpg. Batchmode: 0. Configuration: <!DOCTYPE params>
+<params>
+ <param name="baseline" type="internal">true</param>
+ <param name="exif" type="internal">true</param>
+ <param name="filters" type="string"><![CDATA[]]></param>
+ <param name="forceSRGB" type="internal">false</param>
+ <param name="iptc" type="internal">true</param>
+ <param name="optimize" type="internal">true</param>
+ <param name="progressive" type="internal">false</param>
+ <param name="quality" type="internal">100</param>
+ <param name="saveProfile" type="internal">true</param>
+ <param name="smoothing" type="internal">0</param>
+ <param name="storeAuthor" type="internal">false</param>
+ <param name="storeMetaData" type="internal">false</param>
+ <param name="subsampling" type="internal">0</param>
+ <param name="transparencyFillcolor" type="color"><![CDATA[<!DOCTYPE color>
+<color>
+ <RGB space="sRGB-elle-V2-g10.icc" g="1" r="1" b="1"/>
+</color>
+]]></param>
+ <param name="xmp" type="internal">true</param>
+</params>
+
+25 Oct 2020 20:53:18 -0500: Completed saving /home/ape/Downloads/74_large.jpg (mime: image/jpeg). Result: OK. Size: 44680. MD5 Hash: 1fd56ff937afa3ca4b6e4cec5e2d211d
+25 Oct 2020 20:53:18 -0500: Saving Completed
+25 Oct 2020 20:54:18 -0500: CLOSING SESSION
+================================================================================
+SESSION: 15 Nov 2020 00:12:53 -0500. Executing krita
+
+Krita Version: 4.4.0, Qt version compiled: 5.15.1, loaded: 5.15.1. Process ID: 31293
+-- -- -- -- -- -- -- --
+15 Nov 2020 00:12:53 -0500: Style: fusion. Available styles: Windows, Fusion
+15 Nov 2020 00:13:13 -0500: CLOSING SESSION
+================================================================================
+SESSION: 18 Feb 2021 17:09:12 -0500. Executing krita
+
+Krita Version: 4.4.2, Qt version compiled: 5.15.2, loaded: 5.15.2. Process ID: 3928
+-- -- -- -- -- -- -- --
+18 Feb 2021 17:09:12 -0500: Style: fusion. Available styles: Windows, Fusion
+18 Feb 2021 17:09:43 -0500: CLOSING SESSION

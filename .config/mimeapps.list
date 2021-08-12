@@ -1,0 +1,16 @@
+[Added Associations]
+image/png=viewnior.desktop;
+application/pdf=xreader.desktop;
+text/plain=visual-studio-code.desktop;
+application/x-shellscript=visual-studio-code.desktop;
+image/jpeg=viewnior.desktop;
+application/json=visual-studio-code.desktop;
+
+[Default Applications]
+x-scheme-handler/postman=Postman.desktop
+text/html=brave-browser.desktop
+x-scheme-handler/http=brave-browser.desktop
+x-scheme-handler/https=brave-browser.desktop
+x-scheme-handler/about=brave-browser.desktop
+x-scheme-handler/unknown=brave-browser.desktop
+x-scheme-handler/eclipse+command=_usr_lib_dbeaver_.desktop

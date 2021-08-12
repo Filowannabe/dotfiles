@@ -1,0 +1,1 @@
+{"id":84822,"xmlId":"color.scheme.Eclipse Dark Theme","name":"Eclipse Dark Theme Color Scheme","description":"\n      Example: https://i.stack.imgur.com/qEh5P.png\n    ","tags":["Editor Color Schemes"],"vendor":"Hannes Schneidermayer","version":"1.4","notes":"\n      Still the best.\n    \n  ","dependencies":["com.intellij.modules.platform"],"since":"142.0","size":1534}

@@ -1,0 +1,14 @@
+[2021-08-10 13:22:12.934] [sharedprocess] [info] main {"machineId":"c95d91b5935e8a2cb2e425d42f5e1a9c3b016676c4f6f2a33d74d1ddab1d22e3","windowId":2}
+[2021-08-10 13:22:19.310] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2021-08-10 13:22:20.307] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme undefined
+[2021-08-10 13:22:21.351] [sharedprocess] [info] Extracted extension to /home/ape/.vscode/extensions/.pkief.material-icon-theme-4.9.0: pkief.material-icon-theme
+[2021-08-10 13:22:21.352] [sharedprocess] [info] Renamed to /home/ape/.vscode/extensions/pkief.material-icon-theme-4.9.0
+[2021-08-10 13:22:21.352] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2021-08-10 13:22:21.490] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2021-08-10 13:22:52.969] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-08-10 15:03:53.348] [sharedprocess] [info] Installing extension: coenraads.bracket-pair-colorizer-2
+[2021-08-10 15:03:57.587] [sharedprocess] [info] Downloaded extension: coenraads.bracket-pair-colorizer-2 undefined
+[2021-08-10 15:03:57.976] [sharedprocess] [info] Extracted extension to /home/ape/.vscode/extensions/.coenraads.bracket-pair-colorizer-2-0.2.1: coenraads.bracket-pair-colorizer-2
+[2021-08-10 15:03:57.976] [sharedprocess] [info] Renamed to /home/ape/.vscode/extensions/coenraads.bracket-pair-colorizer-2-0.2.1
+[2021-08-10 15:03:57.976] [sharedprocess] [info] Installation completed. coenraads.bracket-pair-colorizer-2
+[2021-08-10 15:03:58.027] [sharedprocess] [info] Extensions installed successfully: coenraads.bracket-pair-colorizer-2

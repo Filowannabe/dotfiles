@@ -1,0 +1,8 @@
+dialog.default.folder=/home/ape/Documents/code
+driver.selector.orderBy=score
+eclipse.preferences.version=1
+org.jkiss.dbeaver.core.confirm.entity_revert=always
+org.jkiss.dbeaver.core.confirm.exit=always
+tipOfTheDayInitializer.notFirstRun=true
+ui.auto.update.check.time=1623776389548
+ui.show.tip.of.the.day.on.startup=true

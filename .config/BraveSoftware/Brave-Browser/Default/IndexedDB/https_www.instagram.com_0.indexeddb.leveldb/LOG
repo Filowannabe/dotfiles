@@ -1,0 +1,7 @@
+2021/06/11-10:29:34.580 10bc Reusing MANIFEST /home/ape/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/11-10:29:34.580 10bc Recovering log #3
+2021/06/11-10:29:34.652 10bc Reusing old log /home/ape/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000003.log 
+2021/06/11-10:29:44.898 10e8 Level-0 table #5: started
+2021/06/11-10:29:44.954 10e8 Level-0 table #5: 690887 bytes OK
+2021/06/11-10:29:44.999 10e8 Delete type=0 #3
+2021/06/11-10:29:45.000 10e8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

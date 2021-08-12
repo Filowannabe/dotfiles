@@ -1,0 +1,1240 @@
+!SESSION 2021-06-08 21:22:10.009 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ape/.config/Code/User/workspaceStorage/62f360017a8924705f2f0c925f1ca7ea/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:14.399
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:14.870
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:14.943
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.154
+!MESSAGE Initializing Java Language Server 1.1.0.202104290918
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.253
+!MESSAGE Setting java.home /usr/lib/jvm/default as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.268
+!MESSAGE Default VM Install changed from  1623205335237-/usr/lib/jvm/java-15-jdk to 1623205335253-/usr/lib/jvm/default
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.332
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.354
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.14/dist/com.microsoft.jdtls.intellicode.core-0.4.5.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.412
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-debug-0.31.0/server/com.microsoft.java.debug.plugin-0.30.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.439
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-dependency-0.16.0/server/com.microsoft.jdtls.ext.core-0.16.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.507
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/com.microsoft.java.test.plugin-0.27.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.546
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.eclipse.jdt.junit4.runtime_1.1.1200.v20200214-0716.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.550
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.eclipse.jdt.junit5.runtime_1.0.900.v20200513-0617.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.601
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.jupiter.api_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.667
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.jupiter.engine_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.675
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.jupiter.migrationsupport_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.725
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.jupiter.params_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.741
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.vintage.engine_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.769
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.opentest4j_1.2.0.v20190826-0900.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.774
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.platform.commons_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.811
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.platform.engine_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.814
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.platform.launcher_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.817
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.platform.runner_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.821
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.platform.suite.api_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.826
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.apiguardian_1.1.0.v20190826-0900.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:15.836
+!MESSAGE Installed reference:file:/home/ape/.vscode/extensions/vscjava.vscode-maven-0.30.1/jdtls.ext/com.microsoft.java.maven.plugin/target/com.microsoft.java.maven.plugin-0.27.1.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.896
+!MESSAGE Started reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-dependency-0.16.0/server/com.microsoft.jdtls.ext.core-0.16.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.896
+!MESSAGE Started reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.jupiter.migrationsupport_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.897
+!MESSAGE Started reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.opentest4j_1.2.0.v20190826-0900.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.906
+!MESSAGE Started reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.platform.suite.api_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.907
+!MESSAGE Started reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.platform.launcher_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.908
+!MESSAGE Started reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.jupiter.api_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.909
+!MESSAGE Started reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.jupiter.params_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.910
+!MESSAGE Started reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.platform.commons_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.911
+!MESSAGE Started reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.platform.runner_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.912
+!MESSAGE Started reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.eclipse.jdt.junit5.runtime_1.0.900.v20200513-0617.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.912
+!MESSAGE Started reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.vintage.engine_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.913
+!MESSAGE Started reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.jupiter.engine_5.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.914
+!MESSAGE Started reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.eclipse.jdt.junit4.runtime_1.1.1200.v20200214-0716.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.915
+!MESSAGE Started reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.apiguardian_1.1.0.v20190826-0900.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.915
+!MESSAGE Started reference:file:/home/ape/.vscode/extensions/vscjava.vscode-java-test-0.27.0/server/org.junit.platform.engine_1.6.0.v20200203-2009.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.938
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.939
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.945
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.945
+!MESSAGE Non-Static Commands: [java.maven.initializeSearcher, java.maven.searchArtifact, java.maven.addDependency, java.maven.controlContext]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.946
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.946
+!MESSAGE Non-Static Commands: [vscode.java.test.search.codelens, vscode.java.test.search.items.all, vscode.java.test.search.location, vscode.java.test.search.items, vscode.java.test.get.testpath, vscode.java.test.junit.argument]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.946
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.947
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.947
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.947
+!MESSAGE Non-Static Commands: [java.intellicode.completion, java.intellicode.completion.resolve, java.intellicode.enable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.947
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.948
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:17.009
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:17.010
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:17.103
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:17.119
+!MESSAGE >> java/buildWorkspace (incremental)
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2021-06-08 21:22:17.223
+!MESSAGE Failed to build workspace.
+!STACK 1
+Java Model Exception: Java Model Status [jdt.ls-java-project does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:267)
+	at org.eclipse.jdt.internal.core.JavaProject.getPackageFragmentRoots(JavaProject.java:2322)
+	at org.eclipse.jdt.internal.core.JavaProject.getPackageFragments(JavaProject.java:2346)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.cleanupResources(ProjectsManager.java:212)
+	at org.eclipse.jdt.ls.core.internal.handlers.BuildWorkspaceHandler.buildWorkspace(BuildWorkspaceHandler.java:53)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$26(JDTLanguageServer.java:835)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$51(JDTLanguageServer.java:1007)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2021-06-08 21:22:17.237
+!MESSAGE jdt.ls-java-project does not exist
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:17.258
+!MESSAGE >> New configuration: {java={home=/usr/lib/jvm/default, jdt={ls={vmargs=-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, maven={userSettings=null, globalSettings=null}, runtimes=[]}, trace={server=off}, import={maven={enabled=true}, gradle={enabled=true, wrapper={enabled=true}, version=null, home=null, java={home=null}, offline={enabled=false}, arguments=null, jvmArguments=null, user={home=null}}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, maven={downloadSources=false, updateSnapshots=false}, eclipse={downloadSources=false}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}, insertSpaces=true, tabSize=4.0}, saveActions={organizeImports=false}, project={referencedLibraries=[lib/**/*.jar], importOnFirstTimeStartup=interactive, importHint=true, resourceFilters=[node_modules, .git], exportJar={targetPath=${workspaceFolder}/${workspaceFolderBasename}.jar}}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, recommendations={dependency={analytics={show=true}}}, completion={maxResults=0.0, enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], filteredTypes=[java.awt.*, com.sun.*, sun.*], importOrder=[java, javax, com, org]}, foldingRange={enabled=true}, progressReports={enabled=true}, codeGeneration={hashCodeEquals={useJava7Objects=false, useInstanceof=false}, useBlocks=false, generateComments=false, toString={template=${object.className} [${member.name()}=${member.value}, ${otherMembers}], codeStyle=STRING_CONCATENATION, skipNullValues=false, listArrayContents=true, limitElements=0.0}, insertionLocation=afterCursor}, selectionRange={enabled=true}, showBuildStatusOnStart={enabled=false}, server={launchMode=Hybrid}, sources={organizeImports={starThreshold=99.0, staticStarThreshold=99.0}}, semanticHighlighting={enabled=true}, imports={gradle={wrapper={checksums=[]}}}, templates={fileHeader=[], typeComment=[]}, references={includeAccessors=true, includeDecompiledSources=true}, typeHierarchy={lazyLoad=false}, settings={url=null}, symbols={includeSourceMethodDeclarations=false}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=false, showQualifiedNames=false, showLogicalStructure=true, showToString=true, maxStringLength=0.0, numericPrecision=0.0, hotCodeReplace=manual, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true, onBuildFailureProceed=false, console=integratedTerminal, exceptionBreakpoint={skipClasses=[]}, stepping={skipClasses=[], skipSynthetics=false, skipStaticInitializers=false, skipConstructors=false}, jdwp={limitOfVariablesPerJdwpRequest=100.0, requestTimeout=3000.0}, vmArgs=}}, silentNotification=false, dependency={showMembers=false, syncWithFolderExplorer=true, autoRefresh=true, refreshDelay=2000.0, packagePresentation=flat}, help={firstView=auto, showReleaseNotes=true}, test={report={showAfterExecution=onFailure, position=sideView}, editor={enableShortcuts=true}, log={level=info}, message={hintForDeprecatedConfig=true, hintForSetingDefaultConfig=true}, defaultConfig=, config={}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:17.270
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:17.303
+!MESSAGE Try to create an invisible project for the workspace /home/ape/Documents/code/java/JavaSignUpTime
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:17.303
+!MESSAGE Creating the Java project JavaSignUpTime_dec70243
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:17.600
+!MESSAGE Finished creating the Java project JavaSignUpTime_dec70243
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:17.710
+!MESSAGE Successfully created a workspace invisible project JavaSignUpTime_dec70243
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:18.196
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:18.244
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:18.789
+!MESSAGE >> Updating classpath for project JavaSignUpTime_dec70243
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:20.105
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:20.156
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:20.836
+!MESSAGE Workspace initialized in 740ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:20.959
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:22.557
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:22.557
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:22.558
+!MESSAGE Validated 1. Took 322 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:22.570
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:22.573
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:22.574
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:22.581
+!MESSAGE >> workspace/executeCommand java.project.getAll
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:22.582
+!MESSAGE >> workspace/executeCommand java.project.getSemanticTokensLegend
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:22.688
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:22.690
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:27.402
+!MESSAGE >> workspace/executeCommand java.intellicode.enable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:27.752
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:39.314
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:39.320
+!MESSAGE >> workspace/executeCommand java.project.getSettings
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:39.322
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:39.477
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:39.533
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:39.535
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY java-debug 1 0 2021-06-08 21:22:39.606
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:43.340
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:44.010
+!MESSAGE >> workspace/didChangeWatchedFiles 
+!SESSION 2021-06-08 21:30:36.699 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ape/.config/Code/User/workspaceStorage/62f360017a8924705f2f0c925f1ca7ea/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.core.resources 2 10035 2021-06-08 21:30:43.826
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:48.488
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:49.576
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:49.740
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.491
+!MESSAGE Initializing Java Language Server 1.1.0.202104290918
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.683
+!MESSAGE >> Updating classpath for project JavaSignUpTime_dec70243
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.799
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.801
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.802
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.805
+!MESSAGE Non-Static Commands: [java.intellicode.completion, java.intellicode.completion.resolve, java.intellicode.enable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.806
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.806
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.807
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.807
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.808
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.808
+!MESSAGE Non-Static Commands: [vscode.java.test.search.codelens, vscode.java.test.search.items.all, vscode.java.test.search.location, vscode.java.test.search.items, vscode.java.test.get.testpath, vscode.java.test.junit.argument]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.808
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.809
+!MESSAGE Non-Static Commands: [java.maven.initializeSearcher, java.maven.searchArtifact, java.maven.addDependency, java.maven.controlContext]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.866
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:52.707
+!MESSAGE Workspace initialized in 1895ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:52.821
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:52.977
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:53.060
+!MESSAGE >> New configuration: {java={home=/usr/lib/jvm/default, jdt={ls={vmargs=-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, maven={userSettings=null, globalSettings=null}, runtimes=[]}, trace={server=off}, import={maven={enabled=true}, gradle={enabled=true, wrapper={enabled=true}, version=null, home=null, java={home=null}, offline={enabled=false}, arguments=null, jvmArguments=null, user={home=null}}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, maven={downloadSources=false, updateSnapshots=false}, eclipse={downloadSources=false}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}, insertSpaces=true, tabSize=4.0}, saveActions={organizeImports=false}, project={referencedLibraries=[lib/**/*.jar], importOnFirstTimeStartup=interactive, importHint=true, resourceFilters=[node_modules, .git], exportJar={targetPath=${workspaceFolder}/${workspaceFolderBasename}.jar}}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, recommendations={dependency={analytics={show=true}}}, completion={maxResults=0.0, enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], filteredTypes=[java.awt.*, com.sun.*, sun.*], importOrder=[java, javax, com, org]}, foldingRange={enabled=true}, progressReports={enabled=true}, codeGeneration={hashCodeEquals={useJava7Objects=false, useInstanceof=false}, useBlocks=false, generateComments=false, toString={template=${object.className} [${member.name()}=${member.value}, ${otherMembers}], codeStyle=STRING_CONCATENATION, skipNullValues=false, listArrayContents=true, limitElements=0.0}, insertionLocation=afterCursor}, selectionRange={enabled=true}, showBuildStatusOnStart={enabled=false}, server={launchMode=Hybrid}, sources={organizeImports={starThreshold=99.0, staticStarThreshold=99.0}}, semanticHighlighting={enabled=true}, imports={gradle={wrapper={checksums=[]}}}, templates={fileHeader=[], typeComment=[]}, references={includeAccessors=true, includeDecompiledSources=true}, typeHierarchy={lazyLoad=false}, settings={url=null}, symbols={includeSourceMethodDeclarations=false}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=false, showQualifiedNames=false, showLogicalStructure=true, showToString=true, maxStringLength=0.0, numericPrecision=0.0, hotCodeReplace=manual, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true, onBuildFailureProceed=false, console=integratedTerminal, exceptionBreakpoint={skipClasses=[]}, stepping={skipClasses=[], skipSynthetics=false, skipStaticInitializers=false, skipConstructors=false}, jdwp={limitOfVariablesPerJdwpRequest=100.0, requestTimeout=3000.0}, vmArgs=}}, silentNotification=false, dependency={showMembers=false, syncWithFolderExplorer=true, autoRefresh=true, refreshDelay=2000.0, packagePresentation=flat}, help={firstView=auto, showReleaseNotes=true}, test={report={showAfterExecution=onFailure, position=sideView}, editor={enableShortcuts=true}, log={level=info}, message={hintForDeprecatedConfig=true, hintForSetingDefaultConfig=true}, defaultConfig=, config={}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:53.065
+!MESSAGE >> workspace/executeCommand java.intellicode.enable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:53.777
+!MESSAGE >> Updating classpath for project JavaSignUpTime_dec70243
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:56.287
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:56.291
+!MESSAGE >> workspace/executeCommand java.project.getAll
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:56.301
+!MESSAGE >> workspace/executeCommand java.project.getSemanticTokensLegend
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:56.301
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:56.308
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:56.309
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:56.316
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:56.537
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:56.541
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:59.576
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:59.773
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:59.847
+!MESSAGE >> workspace/executeCommand java.project.getSettings
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:59.857
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:59.859
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:59.861
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:59.862
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:00.223
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY java-debug 1 0 2021-06-08 21:31:00.467
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:01.331
+!MESSAGE begin problem for /Navigator.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:01.332
+!MESSAGE 0 problems reported for /Navigator.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:01.339
+!MESSAGE Validated 1. Took 665 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:06.659
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:14.236
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:14.252
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:14.252
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:14.381
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:14.457
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:21.699
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:21.751
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:21.769
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:21.769
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:21.925
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:21.983
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:21.984
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:22.171
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:22.606
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:38.713
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:46.160
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:46.184
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:46.187
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:46.354
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:46.403
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:46.404
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:46.634
+!MESSAGE Reconciled 1. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:46.785
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:51.006
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:51.037
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:51.084
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:31:51.093
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+
+!ENTRY java-debug 1 0 2021-06-08 21:31:52.537
+!MESSAGE Stopping com.microsoft.java.debug.plugin
+!SESSION 2021-06-08 21:48:43.515 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ape/.config/Code/User/workspaceStorage/62f360017a8924705f2f0c925f1ca7ea/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:46.875
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:47.445
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:47.538
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:47.632
+!MESSAGE Initializing Java Language Server 1.1.0.202104290918
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.791
+!MESSAGE >> Updating classpath for project JavaSignUpTime_dec70243
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.907
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.907
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.908
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.910
+!MESSAGE Non-Static Commands: [java.intellicode.completion, java.intellicode.completion.resolve, java.intellicode.enable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.911
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.912
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.912
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.913
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.913
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.913
+!MESSAGE Non-Static Commands: [vscode.java.test.search.codelens, vscode.java.test.search.items.all, vscode.java.test.search.location, vscode.java.test.search.items, vscode.java.test.get.testpath, vscode.java.test.junit.argument]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.914
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.914
+!MESSAGE Non-Static Commands: [java.maven.initializeSearcher, java.maven.searchArtifact, java.maven.addDependency, java.maven.controlContext]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.979
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.987
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:50.044
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:50.053
+!MESSAGE >> java/buildWorkspace (incremental)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:50.134
+!MESSAGE >> New configuration: {java={home=/usr/lib/jvm/default, jdt={ls={vmargs=-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, maven={userSettings=null, globalSettings=null}, runtimes=[]}, trace={server=off}, import={maven={enabled=true}, gradle={enabled=true, wrapper={enabled=true}, version=null, home=null, java={home=null}, offline={enabled=false}, arguments=null, jvmArguments=null, user={home=null}}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, maven={downloadSources=false, updateSnapshots=false}, eclipse={downloadSources=false}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}, insertSpaces=true, tabSize=4.0}, saveActions={organizeImports=false}, project={referencedLibraries=[lib/**/*.jar], importOnFirstTimeStartup=interactive, importHint=true, resourceFilters=[node_modules, .git], exportJar={targetPath=${workspaceFolder}/${workspaceFolderBasename}.jar}}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, recommendations={dependency={analytics={show=true}}}, completion={maxResults=0.0, enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], filteredTypes=[java.awt.*, com.sun.*, sun.*], importOrder=[java, javax, com, org]}, foldingRange={enabled=true}, progressReports={enabled=true}, codeGeneration={hashCodeEquals={useJava7Objects=false, useInstanceof=false}, useBlocks=false, generateComments=false, toString={template=${object.className} [${member.name()}=${member.value}, ${otherMembers}], codeStyle=STRING_CONCATENATION, skipNullValues=false, listArrayContents=true, limitElements=0.0}, insertionLocation=afterCursor}, selectionRange={enabled=true}, showBuildStatusOnStart={enabled=false}, server={launchMode=Hybrid}, sources={organizeImports={starThreshold=99.0, staticStarThreshold=99.0}}, semanticHighlighting={enabled=true}, imports={gradle={wrapper={checksums=[]}}}, templates={fileHeader=[], typeComment=[]}, references={includeAccessors=true, includeDecompiledSources=true}, typeHierarchy={lazyLoad=false}, settings={url=null}, symbols={includeSourceMethodDeclarations=false}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=false, showQualifiedNames=false, showLogicalStructure=true, showToString=true, maxStringLength=0.0, numericPrecision=0.0, hotCodeReplace=manual, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true, onBuildFailureProceed=false, console=integratedTerminal, exceptionBreakpoint={skipClasses=[]}, stepping={skipClasses=[], skipSynthetics=false, skipStaticInitializers=false, skipConstructors=false}, jdwp={limitOfVariablesPerJdwpRequest=100.0, requestTimeout=3000.0}, vmArgs=}}, silentNotification=false, dependency={showMembers=false, syncWithFolderExplorer=true, autoRefresh=true, refreshDelay=2000.0, packagePresentation=flat}, help={firstView=auto, showReleaseNotes=true}, test={report={showAfterExecution=onFailure, position=sideView}, editor={enableShortcuts=true}, log={level=info}, message={hintForDeprecatedConfig=true, hintForSetingDefaultConfig=true}, defaultConfig=, config={}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:50.137
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:51.026
+!MESSAGE Workspace initialized in 300ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:51.028
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:51.029
+!MESSAGE >> workspace/executeCommand java.intellicode.enable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.330
+!MESSAGE begin problem for /EncryptUtils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.330
+!MESSAGE 1 problems reported for /EncryptUtils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.335
+!MESSAGE Validated 1. Took 860 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.358
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.389
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.391
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.392
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.393
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.400
+!MESSAGE >> workspace/executeCommand java.project.getAll
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.404
+!MESSAGE >> workspace/executeCommand java.project.getSemanticTokensLegend
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.411
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.413
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.882
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.909
+!MESSAGE >> workspace/executeCommand java.project.getSettings
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.915
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:53.008
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:53.056
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY java-debug 1 0 2021-06-08 21:48:53.075
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:01.587
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:01.594
+!MESSAGE Clearing problems for /EncryptUtils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:01.647
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:01.672
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:01.675
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:01.811
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:01.909
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:02.128
+!MESSAGE Reconciled 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:02.606
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:02.606
+!MESSAGE 1 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:02.607
+!MESSAGE Validated 1. Took 76 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:02.923
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:03.812
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:03.839
+!MESSAGE >> java/findLinks
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:34.514
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:38.261
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:38.262
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 4 2 2021-06-08 21:49:38.276
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ls.core".
+!STACK 1
+Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)
+	at com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)
+	at com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)
+	at com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2021-06-08 21:49:38.281
+!MESSAGE _/src [in JavaSignUpTime_dec70243] is not on its project's build path
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2021-06-08 21:49:38.281
+!MESSAGE _/src [in JavaSignUpTime_dec70243] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2021-06-08 21:49:38.284
+!MESSAGE Error in calling delegate command handler
+!STACK 1
+Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)
+	at com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)
+	at com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)
+	at com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2021-06-08 21:49:38.285
+!MESSAGE _/src [in JavaSignUpTime_dec70243] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:49:40.844
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:04.941
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:05.020
+!MESSAGE >> New configuration: {java={home=/usr/lib/jvm/default, jdt={ls={vmargs=-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, maven={userSettings=null, globalSettings=null}, runtimes=[]}, trace={server=off}, import={maven={enabled=true}, gradle={enabled=true, wrapper={enabled=true}, version=null, home=null, java={home=null}, offline={enabled=false}, arguments=null, jvmArguments=null, user={home=null}}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, maven={downloadSources=false, updateSnapshots=false}, eclipse={downloadSources=false}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}, insertSpaces=true, tabSize=4.0}, saveActions={organizeImports=false}, project={referencedLibraries=[lib/**/*.jar, /home/ape/Documents/code/java/JavaSignUpTime/**/*.jar], importOnFirstTimeStartup=interactive, importHint=true, resourceFilters=[node_modules, .git], exportJar={targetPath=${workspaceFolder}/${workspaceFolderBasename}.jar}}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, recommendations={dependency={analytics={show=true}}}, completion={maxResults=0.0, enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], filteredTypes=[java.awt.*, com.sun.*, sun.*], importOrder=[java, javax, com, org]}, foldingRange={enabled=true}, progressReports={enabled=true}, codeGeneration={hashCodeEquals={useJava7Objects=false, useInstanceof=false}, useBlocks=false, generateComments=false, toString={template=${object.className} [${member.name()}=${member.value}, ${otherMembers}], codeStyle=STRING_CONCATENATION, skipNullValues=false, listArrayContents=true, limitElements=0.0}, insertionLocation=afterCursor}, selectionRange={enabled=true}, showBuildStatusOnStart={enabled=false}, server={launchMode=Hybrid}, sources={organizeImports={starThreshold=99.0, staticStarThreshold=99.0}}, semanticHighlighting={enabled=true}, imports={gradle={wrapper={checksums=[]}}}, templates={fileHeader=[], typeComment=[]}, references={includeAccessors=true, includeDecompiledSources=true}, typeHierarchy={lazyLoad=false}, settings={url=null}, symbols={includeSourceMethodDeclarations=false}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=false, showQualifiedNames=false, showLogicalStructure=true, showToString=true, maxStringLength=0.0, numericPrecision=0.0, hotCodeReplace=manual, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true, onBuildFailureProceed=false, console=integratedTerminal, exceptionBreakpoint={skipClasses=[]}, stepping={skipClasses=[], skipSynthetics=false, skipStaticInitializers=false, skipConstructors=false}, jdwp={limitOfVariablesPerJdwpRequest=100.0, requestTimeout=3000.0}, vmArgs=}}, silentNotification=false, dependency={showMembers=false, syncWithFolderExplorer=true, autoRefresh=true, refreshDelay=2000.0, packagePresentation=flat}, help={firstView=auto, showReleaseNotes=true}, test={report={showAfterExecution=onFailure, position=sideView}, editor={enableShortcuts=true}, log={level=info}, message={hintForDeprecatedConfig=true, hintForSetingDefaultConfig=true}, defaultConfig=, config={}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:05.020
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:05.104
+!MESSAGE >> Updating classpath for project JavaSignUpTime_dec70243
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:05.113
+!MESSAGE >> Adding /home/ape/Documents/code/java/JavaSignUpTime/src/backend/data/mysql-connector-java-5.1.49.jar to the classpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:05.297
+!MESSAGE >> workspace/executeCommand java.project.getSettings
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:05.318
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:05.318
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:05.319
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:05.518
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:07.301
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:07.309
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 4 2 2021-06-08 21:50:07.314
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.ls.core".
+!STACK 1
+Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)
+	at com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)
+	at com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)
+	at com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2021-06-08 21:50:07.317
+!MESSAGE _/src [in JavaSignUpTime_dec70243] is not on its project's build path
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2021-06-08 21:50:07.318
+!MESSAGE _/src [in JavaSignUpTime_dec70243] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2021-06-08 21:50:07.330
+!MESSAGE Error in calling delegate command handler
+!STACK 1
+Java Model Exception: Java Model Status [_/src [in JavaSignUpTime_dec70243] is not on its project's build path]
+	at org.eclipse.jdt.internal.core.JavaElement.newJavaModelException(JavaElement.java:583)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:254)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:596)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:326)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:312)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getKind(PackageFragmentRoot.java:530)
+	at com.microsoft.jdtls.ext.core.model.PackageNode.createNodeForPackageFragmentRoot(PackageNode.java:204)
+	at com.microsoft.jdtls.ext.core.PackageCommand.resolvePath(PackageCommand.java:138)
+	at com.microsoft.jdtls.ext.core.CommandHandler.executeCommand(CommandHandler.java:33)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler$1.run(WorkspaceExecuteCommandHandler.java:215)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.ls.core.internal.handlers.WorkspaceExecuteCommandHandler.executeCommand(WorkspaceExecuteCommandHandler.java:205)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.lambda$3(JDTLanguageServer.java:506)
+	at org.eclipse.jdt.ls.core.internal.BaseJDTLanguageServer.lambda$0(BaseJDTLanguageServer.java:75)
+	at java.base/java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:642)
+	at java.base/java.util.concurrent.CompletableFuture$Completion.exec(CompletableFuture.java:479)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2021-06-08 21:50:07.331
+!MESSAGE _/src [in JavaSignUpTime_dec70243] is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:07.347
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:07.372
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:07.866
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:09.870
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:12.020
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:17.108
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:17.119
+!MESSAGE >> workspace/executeCommand vscode.java.isOnClasspath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:29.303
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:31.352
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:31.373
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:31.444
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:50:31.456
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+
+!ENTRY java-debug 1 0 2021-06-08 21:50:32.009
+!MESSAGE Stopping com.microsoft.java.debug.plugin
+!SESSION 2021-06-08 22:21:17.438 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ape/.config/Code/User/workspaceStorage/62f360017a8924705f2f0c925f1ca7ea/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:20.813
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.294
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.377
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.533
+!MESSAGE Initializing Java Language Server 1.1.0.202104290918
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.676
+!MESSAGE >> Updating classpath for project JavaSignUpTime_dec70243
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.882
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.883
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.project.getSemanticTokensLegend, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.884
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.884
+!MESSAGE Non-Static Commands: [java.intellicode.completion, java.intellicode.completion.resolve, java.intellicode.enable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.888
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.889
+!MESSAGE Non-Static Commands: [vscode.java.checkProjectSettings, vscode.java.isOnClasspath, vscode.java.fetchUsageData, vscode.java.validateLaunchConfig, vscode.java.resolveClassFilters, vscode.java.resolveMainMethod, vscode.java.resolveClasspath, vscode.java.resolveBuildFiles, vscode.java.resolveMainClass, vscode.java.updateDebugSettings, vscode.java.resolveSourceUri, vscode.java.fetchPlatformSettings, vscode.java.buildWorkspace, vscode.java.startDebugSession, vscode.java.inferLaunchCommandLength, vscode.java.resolveElementAtSelection, vscode.java.resolveJavaExecutable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.889
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.893
+!MESSAGE Non-Static Commands: [java.project.refreshLib, java.project.list, java.project.generateJar, java.project.getMainClasses, java.getPackageData, java.resolvePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.893
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.894
+!MESSAGE Non-Static Commands: [vscode.java.test.search.codelens, vscode.java.test.search.items.all, vscode.java.test.search.location, vscode.java.test.search.items, vscode.java.test.get.testpath, vscode.java.test.junit.argument]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.894
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.895
+!MESSAGE Non-Static Commands: [java.maven.initializeSearcher, java.maven.searchArtifact, java.maven.addDependency, java.maven.controlContext]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:22.013
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:24.941
+!MESSAGE Workspace initialized in 1310ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:25.045
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:25.120
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:25.192
+!MESSAGE >> New configuration: {java={home=/usr/lib/jvm/default, jdt={ls={vmargs=-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, maven={userSettings=null, globalSettings=null}, runtimes=[]}, trace={server=off}, import={maven={enabled=true}, gradle={enabled=true, wrapper={enabled=true}, version=null, home=null, java={home=null}, offline={enabled=false}, arguments=null, jvmArguments=null, user={home=null}}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, maven={downloadSources=false, updateSnapshots=false}, eclipse={downloadSources=false}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}, insertSpaces=true, tabSize=4.0}, saveActions={organizeImports=false}, project={referencedLibraries=[lib/**/*.jar], importOnFirstTimeStartup=interactive, importHint=true, resourceFilters=[node_modules, .git], exportJar={targetPath=${workspaceFolder}/${workspaceFolderBasename}.jar}}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, recommendations={dependency={analytics={show=true}}}, completion={maxResults=0.0, enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], filteredTypes=[java.awt.*, com.sun.*, sun.*], importOrder=[java, javax, com, org]}, foldingRange={enabled=true}, progressReports={enabled=true}, codeGeneration={hashCodeEquals={useJava7Objects=false, useInstanceof=false}, useBlocks=false, generateComments=false, toString={template=${object.className} [${member.name()}=${member.value}, ${otherMembers}], codeStyle=STRING_CONCATENATION, skipNullValues=false, listArrayContents=true, limitElements=0.0}, insertionLocation=afterCursor}, selectionRange={enabled=true}, showBuildStatusOnStart={enabled=false}, server={launchMode=Hybrid}, sources={organizeImports={starThreshold=99.0, staticStarThreshold=99.0}}, semanticHighlighting={enabled=true}, imports={gradle={wrapper={checksums=[]}}}, templates={fileHeader=[], typeComment=[]}, references={includeAccessors=true, includeDecompiledSources=true}, typeHierarchy={lazyLoad=false}, settings={url=null}, symbols={includeSourceMethodDeclarations=false}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=false, showQualifiedNames=false, showLogicalStructure=true, showToString=true, maxStringLength=0.0, numericPrecision=0.0, hotCodeReplace=manual, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true, onBuildFailureProceed=false, console=integratedTerminal, exceptionBreakpoint={skipClasses=[]}, stepping={skipClasses=[], skipSynthetics=false, skipStaticInitializers=false, skipConstructors=false}, jdwp={limitOfVariablesPerJdwpRequest=100.0, requestTimeout=3000.0}, vmArgs=}}, silentNotification=false, dependency={showMembers=false, syncWithFolderExplorer=true, autoRefresh=true, refreshDelay=2000.0, packagePresentation=flat}, help={firstView=auto, showReleaseNotes=true}, test={report={showAfterExecution=onFailure, position=sideView}, editor={enableShortcuts=true}, log={level=info}, message={hintForDeprecatedConfig=true, hintForSetingDefaultConfig=true}, defaultConfig=, config={}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:25.198
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:25.949
+!MESSAGE >> Updating classpath for project JavaSignUpTime_dec70243
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:27.383
+!MESSAGE >> workspace/executeCommand java.intellicode.enable
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:28.337
+!MESSAGE Reconciled 1. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.358
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.358
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.365
+!MESSAGE Validated 1. Took 996 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.382
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.385
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.388
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.397
+!MESSAGE >> workspace/executeCommand java.project.getAll
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.398
+!MESSAGE >> workspace/executeCommand java.project.getSemanticTokensLegend
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.424
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.424
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.436
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.505
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.506
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:38.149
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:38.173
+!MESSAGE >> workspace/executeCommand java.project.getSettings
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:38.183
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:38.186
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:38.213
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:38.234
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:38.241
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:38.387
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:38.390
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:38.391
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:38.392
+!MESSAGE >> document/codeAction
+
+!ENTRY java-debug 1 0 2021-06-08 22:21:38.470
+!MESSAGE Starting com.microsoft.java.debug.plugin
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:54.628
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:57.674
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:07.680
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:07.775
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:07.854
+!MESSAGE >> New configuration: {java={home=/usr/lib/jvm/default, jdt={ls={vmargs=-XX:+UseParallelGC -XX:GCTimeRatio=4 -XX:AdaptiveSizePolicyWeight=90 -Dsun.zip.disableMemoryMapping=true -Xmx1G -Xms100m}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive, maven={userSettings=null, globalSettings=null}, runtimes=[]}, trace={server=off}, import={maven={enabled=true}, gradle={enabled=true, wrapper={enabled=true}, version=null, home=null, java={home=null}, offline={enabled=false}, arguments=null, jvmArguments=null, user={home=null}}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, maven={downloadSources=false, updateSnapshots=false}, eclipse={downloadSources=false}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, settings={url=null, profile=null}, comments={enabled=true}, onType={enabled=true}, insertSpaces=true, tabSize=4.0}, saveActions={organizeImports=false}, project={referencedLibraries=[lib/**/*.jar, /home/ape/Documents/code/java/JavaSignUpTime/**/*.jar], importOnFirstTimeStartup=interactive, importHint=true, resourceFilters=[node_modules, .git], exportJar={targetPath=${workspaceFolder}/${workspaceFolderBasename}.jar}}, contentProvider={preferred=null}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, recommendations={dependency={analytics={show=true}}}, completion={maxResults=0.0, enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], filteredTypes=[java.awt.*, com.sun.*, sun.*], importOrder=[java, javax, com, org]}, foldingRange={enabled=true}, progressReports={enabled=true}, codeGeneration={hashCodeEquals={useJava7Objects=false, useInstanceof=false}, useBlocks=false, generateComments=false, toString={template=${object.className} [${member.name()}=${member.value}, ${otherMembers}], codeStyle=STRING_CONCATENATION, skipNullValues=false, listArrayContents=true, limitElements=0.0}, insertionLocation=afterCursor}, selectionRange={enabled=true}, showBuildStatusOnStart={enabled=false}, server={launchMode=Hybrid}, sources={organizeImports={starThreshold=99.0, staticStarThreshold=99.0}}, semanticHighlighting={enabled=true}, imports={gradle={wrapper={checksums=[]}}}, templates={fileHeader=[], typeComment=[]}, references={includeAccessors=true, includeDecompiledSources=true}, typeHierarchy={lazyLoad=false}, settings={url=null}, symbols={includeSourceMethodDeclarations=false}, debug={logLevel=warn, settings={showHex=false, showStaticVariables=false, showQualifiedNames=false, showLogicalStructure=true, showToString=true, maxStringLength=0.0, numericPrecision=0.0, hotCodeReplace=manual, enableRunDebugCodeLens=true, forceBuildBeforeLaunch=true, onBuildFailureProceed=false, console=integratedTerminal, exceptionBreakpoint={skipClasses=[]}, stepping={skipClasses=[], skipSynthetics=false, skipStaticInitializers=false, skipConstructors=false}, jdwp={limitOfVariablesPerJdwpRequest=100.0, requestTimeout=3000.0}, vmArgs=}}, silentNotification=false, dependency={showMembers=false, syncWithFolderExplorer=true, autoRefresh=true, refreshDelay=2000.0, packagePresentation=flat}, help={firstView=auto, showReleaseNotes=true}, test={report={showAfterExecution=onFailure, position=sideView}, editor={enableShortcuts=true}, log={level=info}, message={hintForDeprecatedConfig=true, hintForSetingDefaultConfig=true}, defaultConfig=, config={}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:08.026
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:08.218
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:08.461
+!MESSAGE >> Updating classpath for project JavaSignUpTime_dec70243
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:08.470
+!MESSAGE >> Adding /home/ape/Documents/code/java/JavaSignUpTime/src/backend/data/mysql-connector-java-5.1.49.jar to the classpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:08.554
+!MESSAGE >> workspace/executeCommand java.project.getSettings
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:08.831
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:08.832
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:10.556
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:10.557
+!MESSAGE >> workspace/executeCommand vscode.java.test.get.testpath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:10.560
+!MESSAGE >> workspace/executeCommand java.project.list
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:10.562
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:10.565
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:10.568
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:10.591
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:10.854
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:10.855
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:26.439
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:26.523
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:26.558
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:26.559
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:26.683
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:26.736
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:26.737
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:27.008
+!MESSAGE Reconciled 1. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:27.730
+!MESSAGE begin problem for /Navigator.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:27.730
+!MESSAGE 0 problems reported for /Navigator.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:27.730
+!MESSAGE Validated 1. Took 272 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:51.477
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:51.510
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:51.518
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:51.518
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:51.692
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:51.752
+!MESSAGE >> workspace/executeCommand vscode.java.test.search.codelens
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:51.753
+!MESSAGE >> workspace/executeCommand vscode.java.resolveMainMethod
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:51.755
+!MESSAGE >> document/codeAction
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:51.969
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:52.569
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:52.569
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:22:52.571
+!MESSAGE Validated 1. Took 151 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:23:04.767
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:23:05.098
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:23:05.479
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:23:07.122
+!MESSAGE >> workspace/executeCommand java.resolvePath
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:23:07.125
+!MESSAGE >> workspace/executeCommand java.getPackageData
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:24:39.742
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:24:39.747
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:24:39.815
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:24:39.831
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+
+!ENTRY java-debug 1 0 2021-06-08 22:24:40.372
+!MESSAGE Stopping com.microsoft.java.debug.plugin

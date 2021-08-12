@@ -1,0 +1,40 @@
+[2021-06-11 11:58:17.704] [exthost] [info] extension host started
+[2021-06-11 11:58:18.357] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication {"startup":false,"extensionId":{"value":"vscode.microsoft-authentication","_lower":"vscode.microsoft-authentication"},"activationEvent":"onAuthenticationRequest:microsoft"}
+[2021-06-11 11:58:18.358] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-06-11 11:58:18.407] [exthost] [info] ExtensionService#_doActivateExtension alexcvzz.vscode-sqlite {"startup":false,"extensionId":{"value":"alexcvzz.vscode-sqlite","_lower":"alexcvzz.vscode-sqlite"},"activationEvent":"onLanguage:sqlite"}
+[2021-06-11 11:58:18.407] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ape/.vscode/extensions/alexcvzz.vscode-sqlite-0.12.0/dist/extension
+[2021-06-11 11:58:18.453] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-06-11 11:58:18.453] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-06-11 11:58:18.614] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-06-11 11:58:18.614] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-06-11 11:58:18.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-11 11:58:18.749] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-06-11 11:58:18.894] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-06-11 11:58:18.894] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-06-11 11:58:18.966] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2021-06-11 11:58:18.966] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/search-result/dist/extension.js
+[2021-06-11 11:58:19.126] [exthost] [info] ExtensionService#_doActivateExtension Equinusocio.vsc-material-theme {"startup":true,"extensionId":{"value":"Equinusocio.vsc-material-theme","_lower":"equinusocio.vsc-material-theme"},"activationEvent":"*"}
+[2021-06-11 11:58:19.126] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ape/.vscode/extensions/equinusocio.vsc-material-theme-33.1.2/build/material.theme.config
+[2021-06-11 11:58:19.281] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.terminal {"startup":true,"extensionId":{"value":"formulahendry.terminal","_lower":"formulahendry.terminal"},"activationEvent":"*"}
+[2021-06-11 11:58:19.282] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ape/.vscode/extensions/formulahendry.terminal-0.0.10/out/src/extension
+[2021-06-11 11:58:19.368] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2021-06-11 11:58:19.368] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ape/.vscode/extensions/oderwat.indent-rainbow-7.4.0/out/extension
+[2021-06-11 11:58:19.385] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2021-06-11 11:58:19.385] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ape/.vscode/extensions/pkief.material-icon-theme-4.7.0/dist/extension
+[2021-06-11 11:58:19.466] [exthost] [info] ExtensionService#_doActivateExtension PrimaFuture.open-php-html-js-in-browser {"startup":true,"extensionId":{"value":"PrimaFuture.open-php-html-js-in-browser","_lower":"primafuture.open-php-html-js-in-browser"},"activationEvent":"*"}
+[2021-06-11 11:58:19.466] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ape/.vscode/extensions/primafuture.open-php-html-js-in-browser-2.0.1/out/extension
+[2021-06-11 11:58:19.607] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2021-06-11 11:58:19.608] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ape/.vscode/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2021-06-11 11:58:21.948] [exthost] [info] ExtensionService#_doActivateExtension RobbOwen.synthwave-vscode {"startup":true,"extensionId":{"value":"RobbOwen.synthwave-vscode","_lower":"robbowen.synthwave-vscode"},"activationEvent":"*"}
+[2021-06-11 11:58:21.948] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ape/.vscode/extensions/robbowen.synthwave-vscode-0.1.8/src/extension.js
+[2021-06-11 11:58:22.508] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2021-06-11 11:58:22.508] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-06-11 11:58:23.113] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":false,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2021-06-11 11:58:23.113] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-06-11 11:58:23.403] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":false,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"onAuthenticationRequest:github"}
+[2021-06-11 11:58:23.403] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-06-11 11:58:23.623] [exthost] [info] eager extensions activated
+[2021-06-11 11:58:23.632] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.code-runner {"startup":false,"extensionId":{"value":"formulahendry.code-runner","_lower":"formulahendry.code-runner"},"activationEvent":"onStartupFinished"}
+[2021-06-11 11:58:23.632] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ape/.vscode/extensions/formulahendry.code-runner-0.11.2/out/src/extension
+[2021-06-11 11:58:24.210] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers {"startup":false,"extensionId":{"value":"ms-vscode-remote.remote-containers","_lower":"ms-vscode-remote.remote-containers"},"activationEvent":"onStartupFinished"}
+[2021-06-11 11:58:24.210] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/ape/.vscode/extensions/ms-vscode-remote.remote-containers-0.148.1/dist/extension

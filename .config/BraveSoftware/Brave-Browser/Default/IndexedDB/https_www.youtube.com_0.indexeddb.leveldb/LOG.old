@@ -1,0 +1,27 @@
+2021/08/11-16:33:59.348 6c8 Reusing MANIFEST /home/ape/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/08/11-16:33:59.348 6c8 Recovering log #132
+2021/08/11-16:33:59.524 6c8 Reusing old log /home/ape/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000132.log 
+2021/08/11-16:33:59.525 6c8 Delete type=2 #131
+2021/08/11-16:34:05.150 6fc Level-0 table #137: started
+2021/08/11-16:34:05.250 6fc Level-0 table #137: 64144 bytes OK
+2021/08/11-16:34:05.382 6fc Delete type=0 #132
+2021/08/11-16:34:05.382 6fc Manual compaction at level-0 from '\x000\x00\x00\x00' @ 72057594037927935 : 1 .. '\x001\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/08/11-16:34:05.383 6fc Manual compaction at level-1 from '\x000\x00\x00\x00' @ 72057594037927935 : 1 .. '\x001\x00\x00\x00' @ 0 : 0; will stop at '\x001\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 30570 : 1
+2021/08/11-16:34:05.383 6fc Compacting 1@1 + 1@2 files
+2021/08/11-16:34:05.520 6fc Generated table #138@1: 193 keys, 19929 bytes
+2021/08/11-16:34:05.520 6fc Compacted 1@1 + 1@2 files => 19929 bytes
+2021/08/11-16:34:05.640 6fc compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/08/11-16:34:05.640 6fc Delete type=2 #137
+2021/08/11-16:34:05.640 6fc Manual compaction at level-1 from '\x001\x02\x02\x01\x14\x00s\x00h\x00e\x00l\x00l\x00_\x00i\x00d\x00e\x00n\x00t\x00i\x00f\x00i\x00e\x00r\x00_\x00k\x00e\x00y' @ 30570 : 1 .. '\x001\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/08/11-16:34:06.721 6c8 Level-0 table #140: started
+2021/08/11-16:34:06.777 6c8 Level-0 table #140: 45384 bytes OK
+2021/08/11-16:34:06.854 6c8 Delete type=0 #136
+2021/08/11-16:34:06.854 6c8 Delete type=2 #134
+2021/08/11-16:34:06.855 6c8 Manual compaction at level-0 from '\x001\x00\x00\x00' @ 72057594037927935 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/08/11-16:34:06.855 6c8 Manual compaction at level-1 from '\x001\x00\x00\x00' @ 72057594037927935 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at '\x002\x01\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\xd0\xf5/r\xb3wB\x00\x03\x00\x00\x00\x00\x00\x00\x10@' @ 31171 : 1
+2021/08/11-16:34:06.855 6c8 Compacting 1@1 + 1@2 files
+2021/08/11-16:34:06.994 6c8 Generated table #141@1: 199 keys, 30953 bytes
+2021/08/11-16:34:06.994 6c8 Compacted 1@1 + 1@2 files => 30953 bytes
+2021/08/11-16:34:07.110 6c8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/08/11-16:34:07.111 6c8 Delete type=2 #140
+2021/08/11-16:34:07.111 6c8 Manual compaction at level-1 from '\x002\x01\x1f\x04\x02\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00\xd0\xf5/r\xb3wB\x00\x03\x00\x00\x00\x00\x00\x00\x10@' @ 31171 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at (end)

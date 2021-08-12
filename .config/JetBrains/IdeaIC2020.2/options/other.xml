@@ -1,0 +1,46 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Arimo Nerd Font" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="8" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="BuildView.Splitter.Proportion" value="0.21191029" />
+    <property name="FindSplitterProportion" value="0.0" />
+    <property name="Gradle.Splitter.Proportion" value="0.2412993" />
+    <property name="GradleSupport.hideIgnoredTests" value="false" />
+    <property name="GradleSupport.hidePassedTests" value="false" />
+    <property name="GradleSupport.showInternalTestNodes" value="false" />
+    <property name="MarketplacePluginsSearchHistory" value="cherry&#10;cherr&#10;wc&#10;w&#10;wi" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="appcds.runOnSecondStart" value="IC-202.7660.26-070cba3b783c6cfa9b43575d9b10333f8fb0b80ad1f6904ec373456ac8b13b6e" />
+    <property name="ask.about.ctrl.y.shortcut" value="true" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="debugger.smart.chooser.counter" value="1" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/CAFERRERB/1/diseno2020_2-mitienda-storeapp&#10;/home/ape/Documents/CAFERRERB/2/diseno2020_2-mitienda-userapp&#10;/home/ape/Documents/CLASEACTUAL/diseno2020_2-mitienda-backend&#10;/home/ape/Downloads/parcial2/disenosoftware2020_examen&#10;/home/ape/Documents/Preparcial2/banco/banco&#10;/home/ape/Documents/clase/repositorios/diseno2020_2-mitienda-backend&#10;/home/ape/Documents/parcialbd/disenosoftware2020_examen&#10;/home/ape/Downloads/banco/banco&#10;/home/ape/Documents/Git/clase/Tiendita/diseno2020_2-mitienda-backend&#10;/home/ape/Documents/Git/clase/tienda/diseno2020_2-mitienda-backend" />
+    <property name="file.gist.reindex.count" value="458" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="installed.kotlin.plugin.version" value="1.4.10-release-IJ2020.2-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="14" />
+    <property name="kotlin-gradle-user-dirs" value="$USER_HOME$/.gradle" />
+    <property name="kotlin.plugin.releaseDate" value="1.4.10-release-IJ2020.2-1:2020-09-10" />
+    <property name="lastSeenTip" value="neue-ColorEditingInCss.html" />
+    <property name="lastTimeTipsWereShown" value="1598255024489" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1607147428627" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="seenTips" value="neue-ColorEditingInCss.html" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Imports" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.7019667" />
+  </component>
+</application>

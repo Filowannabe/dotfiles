@@ -1,0 +1,12 @@
+[2021-08-10 13:22:22.983] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.git' took 100% of 195.753ms, saved PROFILE here: '/tmp/exthost-98dbc6.cpuprofile' [{"id":"vscode.git","total":195538,"percentage":100}]
+[2021-08-10 15:27:27.874] [renderer1] [warning] UNRESPONSIVE extension host, 'CoenraadS.bracket-pair-colorizer-2' took 89% of 2535.108ms, saved PROFILE here: '/tmp/exthost-3f728d.cpuprofile' [{"id":"CoenraadS.bracket-pair-colorizer-2","total":2267133,"percentage":89},{"id":"gc","total":25838,"percentage":1},{"id":"ms-vscode.js-debug","total":4937,"percentage":0},{"id":"program","total":63770,"percentage":3},{"id":"self","total":47131,"percentage":2},{"id":"vscode.typescript-language-features","total":126073,"percentage":5}]
+[2021-08-10 15:52:25.431] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2021-08-10 16:22:25.409] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2021-08-10 16:52:25.407] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2021-08-10 17:22:25.542] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+[2021-08-10 17:52:25.824] [renderer1] [error] getaddrinfo EAI_AGAIN default.exp-tas.com: Error: getaddrinfo EAI_AGAIN default.exp-tas.com
+	at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)

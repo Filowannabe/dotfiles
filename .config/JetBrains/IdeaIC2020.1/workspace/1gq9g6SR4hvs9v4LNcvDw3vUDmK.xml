@@ -1,0 +1,330 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/Store.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="82" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/Order.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/OrderProduct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/Category.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="538">
+              <caret line="49" selection-end-line="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/ShoppingCart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="503">
+              <caret line="56" selection-end-line="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/ShoppingCartProduct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/ProductStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/Category.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/Order.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/OrderProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/Product.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/ProductStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/ShoppingCart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/ShoppingCartProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/Store.java" />
+      </list>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="4" y="28" width="335" height="734" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mitienda-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diseno2020_2-mitienda-backend" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mitienda-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diseno2020_2-mitienda-backend" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mitienda-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diseno2020_2-mitienda-backend" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="mitienda-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diseno2020_2-mitienda-backend" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mitienda-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diseno2020_2-mitienda-backend" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="disenosoftware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mitienda-backend" type="b2602c69:ProjectViewProjectNode" />
+              <item name="diseno2020_2-mitienda-backend" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="disenosoftware" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="diseno2020_2-mitienda-backend_[check] - 2020.08.30 at 22h 10m 46s.xml">
+      <configuration name="diseno2020_2-mitienda-backend [check]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="diseno2020_2-mitienda-backend_[check] - 2020.08.30 at 22h 17m 15s.xml">
+      <configuration name="diseno2020_2-mitienda-backend [check]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="diseno2020_2-mitienda-backend_[check] - 2020.08.30 at 22h 17m 57s.xml">
+      <configuration name="diseno2020_2-mitienda-backend [check]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="diseno2020_2-mitienda-backend_[check] - 2020.08.30 at 22h 21m 46s.xml">
+      <configuration name="diseno2020_2-mitienda-backend [check]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="diseno2020_2-mitienda-backend_[check] - 2020.08.30 at 22h 23m 14s.xml">
+      <configuration name="diseno2020_2-mitienda-backend [check]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="diseno2020_2-mitienda-backend_[check] - 2020.08.30 at 22h 23m 15s.xml">
+      <configuration name="diseno2020_2-mitienda-backend [check]" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Commit" order="3" />
+      <window_info anchor="bottom" id="Services" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Gradle" order="1" weight="0.32929516" />
+      <window_info anchor="bottom" id="Run" order="4" weight="0.52818036" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.8976109" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="3" />
+      <window_info anchor="right" id="Ant" order="0" />
+      <window_info anchor="right" id="Multi Preview" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.76527333" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Build" order="9" weight="0.3296355" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Project Problems" order="11" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/Store.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/ShoppingCartProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/ShoppingCart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="56" selection-end-line="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/ProductStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/OrderProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/edu/eam/disenosoftware/homeauto/model/entities/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="49" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

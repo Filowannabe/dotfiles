@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="DBeaver.ShowTipOfTheDayDialog">
+		<item key="DIALOG_X_ORIGIN" value="-614"/>
+		<item key="DIALOG_Y_ORIGIN" value="-396"/>
+		<item key="DIALOG_WIDTH" value="1366"/>
+		<item key="DIALOG_HEIGHT" value="768"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans|6.0|0|GTK|1|"/>
+	</section>
+	<section name="DriverDownload">
+	</section>
+	<section name="DBeaver.DriverDownloadDialog">
+		<item key="DIALOG_X_ORIGIN" value="0"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="1372"/>
+		<item key="DIALOG_HEIGHT" value="773"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans|6.0|0|GTK|1|"/>
+	</section>
+	<section name="DBeaver.DriverTabbedViewer">
+	</section>
+	<section name="DBeaver.ActiveWizardDialog.NewConnectionWizard">
+		<item key="DIALOG_X_ORIGIN" value="0"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="1372"/>
+		<item key="DIALOG_HEIGHT" value="773"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans|6.0|0|GTK|1|"/>
+	</section>
+	<section name="DBeaver.QM.LogViewer">
+		<item key="column-result" value="120"/>
+	</section>
+	<section name="ResultSetViewer">
+		<section name="presentations">
+			<section name="spreadsheet">
+				<item key="enabledPanelIds" value="value-view"/>
+				<item key="activePanelId" value="value-view"/>
+				<item key="panelRatio" value="732"/>
+				<item key="panelsVisible" value="false"/>
+				<item key="verticalLayout" value="false"/>
+			</section>
+		</section>
+		<section name="ErrorPresentation">
+		</section>
+	</section>
+	<section name="DBeaver.StandardErrorDialog">
+		<item key="showDetails" value="true"/>
+		<item key="DIALOG_X_ORIGIN" value="0"/>
+		<item key="DIALOG_Y_ORIGIN" value="-24"/>
+		<item key="DIALOG_WIDTH" value="1366"/>
+		<item key="DIALOG_HEIGHT" value="768"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans|6.0|0|GTK|1|"/>
+	</section>
+	<section name="DBeaver.SelectDataSourceDialog">
+		<item key="DIALOG_X_ORIGIN" value="0"/>
+		<item key="DIALOG_Y_ORIGIN" value="83"/>
+		<item key="DIALOG_WIDTH" value="1027"/>
+		<item key="DIALOG_HEIGHT" value="600"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans|6.0|0|GTK|1|"/>
+	</section>
+	<section name="DBeaver.ViewSQLDialog">
+		<item key="DIALOG_X_ORIGIN" value="0"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="1372"/>
+		<item key="DIALOG_HEIGHT" value="773"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans|6.0|0|GTK|1|"/>
+	</section>
+	<section name="DBeaver.EditConnectionDialog">
+		<item key="DIALOG_X_ORIGIN" value="0"/>
+		<item key="DIALOG_Y_ORIGIN" value="85"/>
+		<item key="DIALOG_WIDTH" value="1029"/>
+		<item key="DIALOG_HEIGHT" value="516"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans|6.0|0|GTK|1|"/>
+	</section>
+	<section name="DBeaver.TransactionLogDialog">
+		<item key="DIALOG_X_ORIGIN" value="1009"/>
+		<item key="DIALOG_Y_ORIGIN" value="272"/>
+		<item key="DIALOG_WIDTH" value="344"/>
+		<item key="DIALOG_HEIGHT" value="398"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans|6.0|0|GTK|1|"/>
+	</section>
+	<section name="ObjectContainerSelector">
+	</section>
+	<section name="DBeaver.ActiveWizardDialog.DataTransferWizard">
+		<item key="DIALOG_X_ORIGIN" value="341"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="1029"/>
+		<item key="DIALOG_HEIGHT" value="771"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans|6.0|0|GTK|1|"/>
+	</section>
+</section>

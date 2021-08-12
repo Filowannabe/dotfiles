@@ -1,0 +1,13 @@
+2020/10/29-15:07:11.623 44b9 Reusing MANIFEST /home/ape/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/10/29-15:07:11.624 44b9 Recovering log #29
+2020/10/29-15:07:11.728 44b9 Reusing old log /home/ape/.config/Postman/IndexedDB/file__0.indexeddb.leveldb/000029.log 
+2020/10/29-15:07:24.346 4561 Level-0 table #34: started
+2020/10/29-15:07:24.400 4561 Level-0 table #34: 348094 bytes OK
+2020/10/29-15:07:24.442 4561 Delete type=0 #29
+2020/10/29-15:07:24.458 4561 Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2020/10/29-15:08:03.663 4561 Compacting 1@1 + 1@2 files
+2020/10/29-15:08:03.755 4561 Generated table #35@1: 2260 keys, 168623 bytes
+2020/10/29-15:08:03.755 4561 Compacted 1@1 + 1@2 files => 168623 bytes
+2020/10/29-15:08:03.797 4561 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/29-15:08:03.797 4561 Delete type=2 #31
+2020/10/29-15:08:03.797 4561 Delete type=2 #34

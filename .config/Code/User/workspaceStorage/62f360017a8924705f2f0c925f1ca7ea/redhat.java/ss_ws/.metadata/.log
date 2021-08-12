@@ -1,0 +1,297 @@
+!SESSION 2021-06-08 21:22:10.008 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ape/.config/Code/User/workspaceStorage/62f360017a8924705f2f0c925f1ca7ea/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:14.193
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:14.527
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:14.608
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:14.611
+!MESSAGE Initializing Java Language Server 1.1.0.202104290918
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:14.740
+!MESSAGE Setting java.home /usr/lib/jvm/default as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:14.791
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:14.804
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:14.865
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:14.942
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.788
+!MESSAGE Workspace initialized in 1987ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.907
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.940
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.942
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.957
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.962
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:16.967
+!MESSAGE Creating the Java project JavaSignUpTime_dec70243
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:17.003
+!MESSAGE Finished creating the Java project JavaSignUpTime_dec70243
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:17.831
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:17.831
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:17.935
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:17.994
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:18.007
+!MESSAGE >> document/foldingRange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:18.063
+!MESSAGE User abort while collecting the document symbols.
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:18.305
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:20.127
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:20.135
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:20.143
+!MESSAGE Validated 1. Took 1386 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:22.581
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:22.597
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:22.622
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:22:22.635
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-06-08 21:30:36.699 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ape/.config/Code/User/workspaceStorage/62f360017a8924705f2f0c925f1ca7ea/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:45.810
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:46.854
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:47.004
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:47.006
+!MESSAGE Initializing Java Language Server 1.1.0.202104290918
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:47.149
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.028
+!MESSAGE Workspace initialized in 2942ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.111
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.452
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.458
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.469
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:50.554
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:51.335
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:51.341
+!MESSAGE >> document/hover
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:51.354
+!MESSAGE >> document/didClose
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:51.359
+!MESSAGE Clearing problems for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:53.939
+!MESSAGE >> workspace/didChangeWatchedFiles 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:56.309
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:56.314
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:56.403
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:30:56.427
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-06-08 21:48:43.414 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ape/.config/Code/User/workspaceStorage/62f360017a8924705f2f0c925f1ca7ea/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:47.100
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:47.312
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:47.381
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:47.385
+!MESSAGE Initializing Java Language Server 1.1.0.202104290918
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:47.487
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.279
+!MESSAGE Workspace initialized in 1866ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.307
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.349
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.352
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.364
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.374
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:49.894
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:50.312
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:51.886
+!MESSAGE begin problem for /EncryptUtils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:51.887
+!MESSAGE 0 problems reported for /EncryptUtils.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:51.891
+!MESSAGE Validated 1. Took 1129 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.415
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.430
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.483
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 21:48:52.521
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:
+!SESSION 2021-06-08 22:21:17.254 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=15.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_CA
+Command-line arguments:  -data /home/ape/.config/Code/User/workspaceStorage/62f360017a8924705f2f0c925f1ca7ea/redhat.java/ss_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.110
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.364
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.457
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.461
+!MESSAGE Initializing Java Language Server 1.1.0.202104290918
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:21.611
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:23.854
+!MESSAGE Workspace initialized in 2352ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:23.943
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:23.991
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:23.993
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:24.002
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:24.013
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:24.294
+!MESSAGE >> document/documentSymbol
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:24.743
+!MESSAGE Reconciled 1. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:26.807
+!MESSAGE begin problem for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:26.808
+!MESSAGE 0 problems reported for /App.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:26.833
+!MESSAGE Validated 1. Took 1635 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.401
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.414
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.517
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-06-08 22:21:29.535
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

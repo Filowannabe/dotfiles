@@ -1,0 +1,8 @@
+[2021-06-15 09:51:31.051] [sharedprocess] [info] main {"machineId":"c95d91b5935e8a2cb2e425d42f5e1a9c3b016676c4f6f2a33d74d1ddab1d22e3","windowId":2}
+[2021-06-15 09:51:36.189] [sharedprocess] [info] Installing extension: alexcvzz.vscode-sqlite
+[2021-06-15 09:51:37.843] [sharedprocess] [info] Downloaded extension: alexcvzz.vscode-sqlite undefined
+[2021-06-15 09:51:38.041] [sharedprocess] [info] Extracted extension to /home/ape/.vscode/extensions/.alexcvzz.vscode-sqlite-0.13.0: alexcvzz.vscode-sqlite
+[2021-06-15 09:51:38.041] [sharedprocess] [info] Renamed to /home/ape/.vscode/extensions/alexcvzz.vscode-sqlite-0.13.0
+[2021-06-15 09:51:38.042] [sharedprocess] [info] Installation completed. alexcvzz.vscode-sqlite
+[2021-06-15 09:51:38.241] [sharedprocess] [info] Extensions installed successfully: alexcvzz.vscode-sqlite
+[2021-06-15 09:52:11.081] [sharedprocess] [info] Starting to clean up unused language packs.

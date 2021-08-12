@@ -1,0 +1,105 @@
+--------------------------------------------------------------------------------
+[04 Jun 2021, 5:01:32.7 pm:ERROR:bundle.cc(395)] Failed to delete creative ad notifications state
+[04 Jun 2021, 5:01:32.7 pm:ERROR:bundle.cc(407)] Failed to delete creative new tab page ads state
+[04 Jun 2021, 5:01:32.7 pm:ERROR:bundle.cc(419)] Failed to delete creative promoted content ads state
+[04 Jun 2021, 5:01:32.7 pm:ERROR:bundle.cc(431)] Failed to delete campaigns state
+[04 Jun 2021, 5:01:32.7 pm:ERROR:bundle.cc(443)] Failed to delete segments state
+[04 Jun 2021, 5:01:32.7 pm:ERROR:bundle.cc(455)] Failed to delete creative ads state
+[04 Jun 2021, 5:01:32.7 pm:ERROR:bundle.cc(467)] Failed to delete dayparts state
+[04 Jun 2021, 5:01:32.7 pm:ERROR:bundle.cc(479)] Failed to delete geo targets state
+[04 Jun 2021, 5:01:32.7 pm:ERROR:bundle.cc(493)] Failed to save creative ad notifications state
+[04 Jun 2021, 5:01:32.7 pm:ERROR:bundle.cc(507)] Failed to save creative new tab page ads state
+[04 Jun 2021, 5:01:32.7 pm:ERROR:bundle.cc(533)] Failed to purge expired conversions
+[04 Jun 2021, 5:01:32.7 pm:ERROR:bundle.cc(545)] Failed to save conversions state
+[04 Jun 2021, 5:01:32.7 pm:ERROR:creative_ad_notifications_database_table.cc(360)] Failed to get all creative ad notifications
+[04 Jun 2021, 5:01:48.5 pm:ERROR:creative_new_tab_page_ads_database_table.cc(422)] Failed to get creative new tab page ad
+[04 Jun 2021, 5:05:56.1 pm:ERROR:publisher.cc(763)] Publisher info not found
+[04 Jun 2021, 5:12:55.6 pm:ERROR:publisher.cc(763)] Publisher info not found
+[04 Jun 2021, 5:15:29.0 pm:ERROR:creative_new_tab_page_ads_database_table.cc(422)] Failed to get creative new tab page ad
+[04 Jun 2021, 5:20:37.4 pm:ERROR:publisher.cc(763)] Publisher info not found
+--------------------------------------------------------------------------------
+[04 Jun 2021, 5:29:22.0 pm:ERROR:creative_new_tab_page_ads_database_table.cc(422)] Failed to get creative new tab page ad
+[04 Jun 2021, 5:35:25.8 pm:ERROR:creative_new_tab_page_ads_database_table.cc(422)] Failed to get creative new tab page ad
+--------------------------------------------------------------------------------
+[08 Jun 2021, 9:19:11.9 pm:ERROR:publisher.cc(763)] Publisher info not found
+[08 Jun 2021, 9:19:11.9 pm:ERROR:publisher.cc(763)] Publisher info not found
+[08 Jun 2021, 9:19:11.9 pm:ERROR:publisher.cc(763)] Publisher info not found
+[08 Jun 2021, 9:20:10.9 pm:ERROR:publisher.cc(763)] Publisher info not found
+[08 Jun 2021, 9:20:10.9 pm:ERROR:publisher.cc(763)] Publisher info not found
+--------------------------------------------------------------------------------
+[08 Jun 2021, 9:29:31.4 pm:ERROR:publisher.cc(763)] Publisher info not found
+--------------------------------------------------------------------------------
+[09 Jun 2021, 9:12:39.1 am:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+--------------------------------------------------------------------------------
+[10 Jun 2021, 11:46:14.8 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[10 Jun 2021, 11:59:41.9 am:ERROR:creative_new_tab_page_ads_database_table.cc(422)] Failed to get creative new tab page ad
+--------------------------------------------------------------------------------
+[11 Jun 2021, 10:31:16.0 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[11 Jun 2021, 10:31:31.3 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[11 Jun 2021, 10:32:26.5 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[11 Jun 2021, 10:32:44.8 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[11 Jun 2021, 10:37:15.1 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[11 Jun 2021, 10:57:57.5 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[11 Jun 2021, 11:41:17.3 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+--------------------------------------------------------------------------------
+[15 Jun 2021, 9:50:52.3 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[15 Jun 2021, 9:53:27.7 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[15 Jun 2021, 9:54:30.1 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[15 Jun 2021, 9:54:39.4 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[15 Jun 2021, 9:55:27.8 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[15 Jun 2021, 10:11:18.2 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[15 Jun 2021, 10:39:13.7 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[15 Jun 2021, 11:37:38.2 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[15 Jun 2021, 11:38:45.4 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+--------------------------------------------------------------------------------
+[15 Jun 2021, 12:00:31.2 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[15 Jun 2021, 12:00:52.5 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+--------------------------------------------------------------------------------
+[15 Jun 2021, 12:23:51.6 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[15 Jun 2021, 12:23:55.0 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[15 Jun 2021, 12:24:05.3 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+--------------------------------------------------------------------------------
+[15 Jun 2021, 12:45:04.5 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[15 Jun 2021, 12:46:42.0 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[15 Jun 2021, 12:47:48.2 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[15 Jun 2021, 12:50:04.9 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[15 Jun 2021, 12:55:18.3 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+--------------------------------------------------------------------------------
+[16 Jun 2021, 7:57:00.1 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[16 Jun 2021, 7:57:01.3 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[16 Jun 2021, 7:57:42.7 am:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+--------------------------------------------------------------------------------
+[09 Aug 2021, 1:46:50.4 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[09 Aug 2021, 1:46:53.7 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+--------------------------------------------------------------------------------
+[09 Aug 2021, 1:51:12.6 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+--------------------------------------------------------------------------------
+[10 Aug 2021, 1:17:34.5 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[10 Aug 2021, 1:18:06.8 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[10 Aug 2021, 1:18:53.1 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[10 Aug 2021, 1:19:54.4 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[10 Aug 2021, 1:26:39.4 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[10 Aug 2021, 1:33:03.8 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[10 Aug 2021, 1:52:38.4 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[10 Aug 2021, 2:17:22.8 pm:ERROR:publisher.cc(763)] Publisher info not found
+[10 Aug 2021, 3:04:58.0 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[10 Aug 2021, 3:06:12.7 pm:ERROR:publisher.cc(763)] Publisher info not found
+[10 Aug 2021, 4:05:56.1 pm:ERROR:publisher.cc(763)] Publisher info not found
+[10 Aug 2021, 4:05:56.1 pm:ERROR:publisher.cc(763)] Publisher info not found
+[10 Aug 2021, 4:17:45.3 pm:ERROR:publisher.cc(763)] Publisher info not found
+[10 Aug 2021, 4:30:14.2 pm:ERROR:publisher.cc(763)] Publisher info not found
+[10 Aug 2021, 4:45:55.8 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[10 Aug 2021, 5:04:05.1 pm:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[10 Aug 2021, 5:04:50.1 pm:ERROR:publisher.cc(763)] Publisher info not found
+[10 Aug 2021, 5:04:50.3 pm:ERROR:publisher.cc(763)] Publisher info not found
+[10 Aug 2021, 5:08:50.3 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[10 Aug 2021, 5:35:07.9 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+[10 Aug 2021, 5:41:36.2 pm:ERROR:ad_rewards.cc(280)] Payment balance is not ready
+--------------------------------------------------------------------------------
+[11 Aug 2021, 11:53:18.1 am:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[11 Aug 2021, 11:53:47.1 am:ERROR:get_available.cc(69)] Unexpected HTTP status: -1
+[11 Aug 2021, 11:55:38.7 am:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+[11 Aug 2021, 11:56:50.7 am:ERROR:get_parameters.cc(53)] Unexpected HTTP status: -1
+--------------------------------------------------------------------------------
+[12 Aug 2021, 2:13:15.9 pm:ERROR:publisher.cc(763)] Publisher info not found
+[12 Aug 2021, 2:13:15.9 pm:ERROR:publisher.cc(763)] Publisher info not found

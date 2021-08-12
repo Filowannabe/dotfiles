@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item id="NodeList/MySQLCatalog">
+		<column name="Schema Name" visible="true" order="0" width="110"/>
+		<column name="Default Charset" visible="true" order="1" width="79"/>
+		<column name="Default Collation" visible="true" order="2" width="83"/>
+		<column name="SQL Path" visible="true" order="3" width="51"/>
+		<column name="Database size" visible="true" order="4" width="322"/>
+	</item>
+	<item id="NodeList/MySQLTable">
+		<column name="Table Name" visible="true" order="0" width="100"/>
+		<column name="Engine" visible="true" order="1" width="100"/>
+		<column name="Auto Increment" visible="true" order="2" width="100"/>
+		<column name="Data Length" visible="true" order="3" width="100"/>
+		<column name="Description" visible="true" order="4" width="603"/>
+	</item>
+	<item id="NodeList/MySQLTableColumn">
+		<column name="Column Name" visible="true" order="0" width="92"/>
+		<column name="#" visible="true" order="1" width="32"/>
+		<column name="Data Type" visible="true" order="2" width="85"/>
+		<column name="Not Null" visible="true" order="3" width="48"/>
+		<column name="Auto Increment" visible="true" order="4" width="77"/>
+		<column name="Key" visible="true" order="5" width="32"/>
+		<column name="Default" visible="true" order="6" width="45"/>
+		<column name="Extra" visible="true" order="7" width="70"/>
+		<column name="Expression" visible="true" order="8" width="59"/>
+		<column name="Comment" visible="true" order="9" width="533"/>
+	</item>
+	<item id="NodeList/MySQLTableConstraint/MySQLTableConstraintColumn">
+		<column name="Check expression" visible="true" order="3" width="469"/>
+	</item>
+	<item id="NodeList/PostgreSchema">
+		<column name="Name" visible="true" order="0" width="105"/>
+		<column name="Comment" visible="true" order="1" width="941"/>
+	</item>
+	<item id="NodeList/PostgreTable">
+		<column name="Table Name" visible="true" order="0" width="100"/>
+		<column name="Object ID" visible="true" order="1" width="100"/>
+		<column name="Owner" visible="true" order="2" width="100"/>
+		<column name="Tablespace" visible="true" order="3" width="100"/>
+		<column name="Row Count Estimate" visible="true" order="4" width="100"/>
+		<column name="Partitions" visible="true" order="5" width="100"/>
+		<column name="Partition by" visible="true" order="6" width="100"/>
+		<column name="Comment" visible="true" order="7" width="100"/>
+	</item>
+	<item id="NodeList/PostgreTableColumn">
+		<column name="Column Name" visible="true" order="0" width="74"/>
+		<column name="#" visible="true" order="1" width="32"/>
+		<column name="Data type" visible="true" order="2" width="56"/>
+		<column name="Length" visible="true" order="3" width="43"/>
+		<column name="Precision" visible="true" order="4" width="51"/>
+		<column name="Scale" visible="true" order="5" width="37"/>
+		<column name="Identity" visible="true" order="6" width="46"/>
+		<column name="Collation" visible="true" order="7" width="51"/>
+		<column name="Not Null" visible="true" order="8" width="48"/>
+		<column name="Default" visible="true" order="9" width="45"/>
+		<column name="Comment" visible="true" order="10" width="457"/>
+	</item>
+	<item id="NodeList/PostgreTableRegular">
+		<column name="Table Name" visible="true" order="0" width="117"/>
+		<column name="Object ID" visible="true" order="1" width="53"/>
+		<column name="Owner" visible="true" order="2" width="43"/>
+		<column name="Tablespace" visible="true" order="3" width="60"/>
+		<column name="Row Count Estimate" visible="true" order="4" width="98"/>
+		<column name="Partitions" visible="true" order="5" width="52"/>
+		<column name="Partition by" visible="true" order="6" width="61"/>
+		<column name="Extra Options" visible="true" order="8" width="407"/>
+		<column name="Comment" visible="true" order="7" width="56"/>
+	</item>
+	<item id="projectExplorer">
+		<column name="DataSource" visible="true" order="1" width="98"/>
+	</item>
+</items>

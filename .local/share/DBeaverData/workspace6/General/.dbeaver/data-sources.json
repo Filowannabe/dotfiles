@@ -1,0 +1,72 @@
+{
+	"folders": {},
+	"connections": {
+		"mariaDB-1757f0cb844-47289cdd759d46ca": {
+			"provider": "mysql",
+			"driver": "mariaDB",
+			"name": "mysql",
+			"save-password": true,
+			"show-system-objects": true,
+			"read-only": false,
+			"configuration": {
+				"host": "127.0.0.1",
+				"port": "3306",
+				"database": "mysql",
+				"url": "jdbc:mysql://127.0.0.1:3306/mysql",
+				"home": "/usr",
+				"type": "dev",
+				"auth-model": "native"
+			}
+		},
+		"postgres-jdbc-1788bce7a69-1d85dbf095d1679": {
+			"provider": "postgresql",
+			"driver": "postgres-jdbc",
+			"name": "postgres",
+			"save-password": true,
+			"show-system-objects": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "5432",
+				"database": "postgres",
+				"url": "jdbc:postgresql://localhost:5432/postgres",
+				"type": "dev",
+				"provider-properties": {
+					"@dbeaver-show-non-default-db@": "false",
+					"@dbeaver-show-template-db@": "false",
+					"@dbeaver-show-unavailable-db@": "false",
+					"postgresql.dd.plain.string": "false",
+					"postgresql.dd.tag.string": "false"
+				},
+				"auth-model": "native"
+			}
+		},
+		"mariaDB-179eec848a8-4865393b0b384be5": {
+			"provider": "mysql",
+			"driver": "mariaDB",
+			"name": "store",
+			"save-password": true,
+			"show-system-objects": true,
+			"read-only": false,
+			"configuration": {
+				"host": "localhost",
+				"port": "3307",
+				"database": "store",
+				"url": "jdbc:mysql://localhost:3307/store",
+				"type": "dev",
+				"auth-model": "native",
+				"handlers": {}
+			}
+		}
+	},
+	"connection-types": {
+		"dev": {
+			"name": "Development",
+			"color": "255,255,255",
+			"description": "Regular development database",
+			"auto-commit": true,
+			"confirm-execute": false,
+			"confirm-data-change": false
+		}
+	}
+}

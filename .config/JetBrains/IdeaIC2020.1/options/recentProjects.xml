@@ -1,0 +1,52 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/HelloWorld">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1gXJTRBVeMssRE0sXHhG2agDD3W">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-201.8743.12" />
+              <option name="buildTimestamp" value="1595442205090" />
+              <frame x="0" y="24" width="1366" height="744" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1598830420501" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Git/clase/tienda/diseno2020_2-mitienda-backend">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="1gq9g6SR4hvs9v4LNcvDw3vUDmK">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-201.8743.12" />
+              <option name="buildTimestamp" value="1595442236582" />
+              <frame x="4" y="28" width="335" height="734" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1598845804392" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Git/clase/Tiendita/diseno2020_2-mitienda-backend">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1gqcwf25LgnsYQV970XZOy7eHOv">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-201.8743.12" />
+              <option name="buildTimestamp" value="1595442195819" />
+              <frame x="0" y="24" width="1366" height="744" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1599181222063" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents/Git/clase/Tiendita" />
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/Documents/Git/clase/Tiendita/diseno2020_2-mitienda-backend" />
+        <option value="$USER_HOME$/Documents/Git/clase/tienda/diseno2020_2-mitienda-backend" />
+        <option value="$USER_HOME$/IdeaProjects/HelloWorld" />
+      </list>
+    </option>
+  </component>
+</application>

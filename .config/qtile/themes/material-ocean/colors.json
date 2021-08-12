@@ -1,0 +1,123 @@
+{
+    "dark": [
+        "#000000",
+        "#000000"
+    ],
+    "grey": [
+        "#ABB2BF",
+        "#ABB2BF"
+    ],
+    "light": [
+        "#ffffff",
+        "#ffffff"
+    ],
+    "text": [
+        "#282C34",
+        "#282C34"
+    ],
+    "focus": [
+        "#61AFEF",
+        "#61AFEF"
+    ],
+    "active": [
+        "#f1ffff",
+        "#f1ffff"
+    ],
+    "inactive": [
+        "#4c566a",
+        "#4c566a"
+    ],
+    "color1": [
+        "#C678DD",
+        "#C678DD"
+    ],
+    "color2": [
+        "#E06C75",
+        "#E06C75"
+    ],
+    "color3": [
+        "#61AFEF",
+        "#61AFEF"
+    ],
+    "color4": [
+        "#98C379",
+        "#98C379"
+    ],
+    "pistacio": [
+        "#38b7ab",
+        "#38b7ab"
+    ],
+    "blue": [
+        "#3d89c9",
+        "#3d89c9"
+    ],
+    "cherry": [
+        "#b73838",
+        "#b73838"
+    ],
+    "lime": [
+        "#7dbf2f",
+        "#7dbf2f"
+    ],
+    "mango": [
+        "#cc9428",
+        "#cc9428"
+    ],
+    "plum": [
+        "#9259ff",
+        "#9259ff"
+    ],
+    "yellowUbuntu": [
+        "#ffffb6",
+        "#ffffb6"
+    ],
+    "orangeUbuntu": [
+        "#ff6c60",
+        "#ff6c60"
+    ],
+    "greenUbuntu": [
+        "#a8ff60",
+        "#a8ff60"
+    ],
+    "purpleUbuntu": [
+        "#ff73fd",
+        "#ff73fd"
+    ],
+    "cyanUbuntu": [
+        "#96cbfe",
+        "#96cbfe"
+    ],
+    "color1M": [
+        "#a151d3",
+        "#a151d3"
+    ],
+    "color2M": [
+        "#F07178",
+        "#F07178"
+    ],
+    "color3M": [
+        "#fb9f7f",
+        "#fb9f7f"
+    ],
+    "color4M": [
+        "#ffd47e",
+        "#ffd47e"
+    ],
+    "color4D":[
+        "#556a74",
+        "#556a74"
+    ],
+    "color3D":[
+        "#3f575b",
+        "#3f575b"
+    ],
+    "color2D":[
+        "#334148",
+        "#334148"
+    ],
+    "color1D":[
+        "#0f101a",
+        "#0f101a"
+    ]
+    
+}

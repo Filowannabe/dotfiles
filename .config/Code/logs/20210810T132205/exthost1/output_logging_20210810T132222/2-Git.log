@@ -1,0 +1,97 @@
+Looking for git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/ape/Documents/code/work/puntualityapp/HOURFIXED
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+fatal: ambiguous argument 'master': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :electron/services/ScheduleService.ts
+> git ls-files --stage -- /home/ape/Documents/code/work/puntualityapp/HOURFIXED/electron/services/ScheduleService.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /home/ape/Documents/code/work/puntualityapp/HOURFIXED/electron/services/ScheduleService.ts
+> git rev-parse master
+> git cat-file -s eb7effad1e6d918b4d8f38900fe690ac123dbd95
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :electron/services/ScheduleService.ts
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git ls-files --stage -- /home/ape/Documents/code/work/puntualityapp/HOURFIXED/electron/services/ScheduleService.ts
+> git config --get commit.template
+> git cat-file -s eb7effad1e6d918b4d8f38900fe690ac123dbd95
+> git show --textconv :electron/services/ScheduleService.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/ape/Documents/code/work/puntualityapp/HOURFIXED/electron/services/ScheduleService.ts
+> git cat-file -s e65d1a902b8f33957a77ab8ec66de0f3d147bdb2
+> git show --textconv :electron/services/ScheduleService.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git ls-files --stage -- /home/ape/Documents/code/work/puntualityapp/HOURFIXED/electron/services/ScheduleService.ts
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git cat-file -s e65d1a902b8f33957a77ab8ec66de0f3d147bdb2
+> git config --get commit.template
+> git show --textconv :electron/services/ScheduleService.ts
+> git ls-files --stage -- /home/ape/Documents/code/work/puntualityapp/HOURFIXED/electron/services/ScheduleService.ts
+> git cat-file -s e65d1a902b8f33957a77ab8ec66de0f3d147bdb2
+> git show --textconv :electron/services/ScheduleService.ts
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template

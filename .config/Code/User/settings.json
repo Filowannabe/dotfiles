@@ -1,0 +1,50 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Codely Dark",
+    "window.zoomLevel": -1,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "explorer.confirmDelete": false,
+    "terminal.external.linuxExec": "tilix",
+    "open-php-html-js-in-browser.selectedBrowser": "Firefox",
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "dart.debugExternalLibraries": true,
+    "dart.debugSdkLibraries": true,
+    "workbench.colorCustomizations": {},
+    "materialTheme.accent": "Remove accents",
+    "open-php-html-js-in-browser.customUrlToOpen": "localhost/code",
+    "open-php-html-js-in-browser.urlToOpen": "custom",
+    "liveServer.settings.donotVerifyTags": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontFamily": "'JetBrainsMono Nerd Font', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.fontSize": 12,
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-11",
+            "path": "/usr/lib/jvm/java-11-openjdk",
+            "default": true
+        }
+    ]
+}
